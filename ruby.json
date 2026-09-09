@@ -1,0 +1,359 @@
+หน้าแรก
+โรงเรียนเทศบาลห้าแห่งธรรมศาลาโรงเรียนฐาน ⁇ โรงเรียนเทมังศวพสภาเชดวัน
+กิตแล็บ
+มุ่งมั่น
+d4ddbeef
+โครงการนี้ถูกเก็บถาวร ข้อมูลของมันคือ อ่านอย่างเดียว●
+ตรวจสอบแล้ว
+ มุ่งมั่น d4ddbeef  ประพันธ์ 1 สัปดาห์ที่ผ่านมา โดย  เจสซี่ ยัง ✅ มุ่งมั่นโดย กิตแล็บ 1 สัปดาห์ที่ผ่านมา
+รวมสาขา '594180/sq/flow-triggers-identity-mgmt' เข้ากับ 'master'
+เพิ่มประเภทเหตุการณ์ที่กําหนดเวลาไว้ในทริกเกอร์โฟลว์ AI
+
+ดูคําขอผสาน !250805
+
+ผสานโดย: เจสซี่ ยัง <jessieyoung@gitlab.com>
+อนุมัติโดย: เจสซี่ ยัง <jessieyoung@gitlab.com>
+ตรวจสอบโดย: เจสซี่ ยัง <jessieyoung@gitlab.com>
+ร่วมเขียนโดย: โชลัค <squadri@gitlab.com>
+ร่วมเขียนโดย: วิตาลี ทาทารินเทฟ <vtatarintev@gitlab.com>
+ พ่อแม่ 5d508895 1a27684d
+ 
+ 
+ ไม่พบคําขอผสานที่เกี่ยวข้อง
+ 7 ไฟล์
++
+112
+−
+3
+ไฟล์
+7
+
+
+doc/api/แกรป
+hql/อ้างอิง
+_อิน
+อดีตนพ
++2 -0
+
+อี
+อี
+
+ก
+พีพี
+
+กราฟคิวแอล/
+ประเภท/ai
+
+แมว
+อาล็อก
+trigger_conditio
+ns_input_type.rb
++3 -1
+
+flow_t
+ริกเกอร์
+เหตุการณ์_ประเภท
+e_enum.rb
++3 -1
+
+โหมด
+แอลเอส/เอไอ
+flow_tr
+igger.rb
++24 -1
+
+สเปค/โม
+เดล/เอไอ
+flow_trigg
+er_spec.rb
++60 -0
+
+สาธารณะ/-
+/กราฟคิวแอล
+อินโทรสเปคทีฟ
+n_result.json
++18 -0
+
+สคริปต์
+เอส/ลินท์
+คีลา_exc
+luded.yml
++2 -0
+
+หมอ/เอพีไอ/กราฟคิวแอล/อ้างอิง/_ดัชนี.md
++2
+−0
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -66418,6 +66418,7 @@ ประเภทเหตุการณ์ที่เป็นไปได้สําหรับทริกเกอร์การไหล
+| <a id="aiflowtriggereventtype-merge_request_code_conflict"></a>`MERGE_REQUEST_CODE_CONFLICT` | Flow trigger merge_request_code_conflict event |
+| <a id="aiflowtriggereventtype-merge_request_ready"></a>`MERGE_REQUEST_READY` | Flow trigger merge_request_ready event |
+| <a id="aiflowtriggereventtype-pipeline_hooks"></a>`PIPELINE_HOOKS` | Flow trigger pipeline_hooks event |
+| <a id="aiflowtriggereventtype-scheduled"></a>`SCHEDULED` {{< icon name="warning-solid" >}} | เปิดตัวใน GitLab 19.4 สถานะ: การทดลอง เหตุการณ์ที่กําหนดทริกเกอร์การไหล |
+| <a id="aiflowtriggereventtype-work_item"></a>`WORK_ITEM` | Flow trigger work_item event |
+### `AiGovernanceAgentClass`
+
+
+@@ -76126,6 +76127,7 @@ ข้อโต้แย้ง:
+| <a id="aicatalogtriggerconditionsinput-mergerequestcodeconflict"></a>`gergeRequestCodeConflict` | [`AiCatalogTriggerConditionsGroupInput`](#aicatalogtriggerconditionsgroupinput) | กฎเงื่อนไขทริกเกอร์สําหรับเหตุการณ์ merge_request_code_conflict |
+| <a id="aicatalogtriggerconditionsinput-mergerequestready"></a>`mergeRequestReady` | [`AiCatalogTriggerConditionsGroupInput`](#aicatalogtriggerconditionsgroupinput) | กฎเงื่อนไขทริกเกอร์สําหรับเหตุการณ์ merge_request_ready |
+| <a id="aicatalogtriggerconditionsinput-pipelinehooks"></a>`pipelineHooks` | [`AiCatalogTriggerConditionsGroupInput`](#aicatalogtriggerconditionsgroupinput) | กฎเงื่อนไขทริกเกอร์สําหรับกิจกรรม pipeline_hooks |
+| <a id="aicatalogtriggerconditionsinput-scheduled"></a>`scheduled` {{< icon name="warning-solid" >}} | [`AiCatalogTriggerConditionsGroupInput`](#aicatalogtriggerconditionsgroupinput) | เปิดตัวใน GitLab 19.4 สถานะ: การทดลอง กฎเงื่อนไขทริกเกอร์สําหรับกิจกรรมที่กําหนด |
+| <a id="aicatalogtriggerconditionsinput-workitem"></a>`WorkItem` | [`AiCatalogTriggerConditionsGroupInput`](#aicatalogtriggerconditionsgroupinput) | กฎเงื่อนไขทริกเกอร์สําหรับกิจกรรม work_item |
+### `AiCatalogTriggerConditionsRuleItemInput`
+อีอี/แอพ/กราฟคิวแอล/ประเภท/เอไอ/แคตตาล็อก/trigger_conditions_input_type.rb
++3
+−1
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -8,9 +8,11 @@class TriggerConditionsInputType < BaseInputObject
+        คําอธิบาย 'เงื่อนไขสําหรับทริกเกอร์แคตตาล็อก AI'
+
+        ::ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES●แต่ละ_คีย์ ทํา |เหตุการณ์_ประเภท|
+          # scheduled เป็นการทดลองในกรณีที่ถูกเปลี่ยนชื่อหรือออกแบบใหม่
+          อาร์กิวเมนต์ เหตุการณ์_ประเภท, ::ประเภท::ไอ::แคตตาล็อก::TriggerConditionsกลุ่มประเภทอินพุต,
+            จําเป็น: เท็จ,
+            คําอธิบาย: "กฎเงื่อนไขทริกเกอร์สําหรับ #{เหตุการณ์_ประเภท} เหตุการณ์."
+            คําอธิบาย: "กฎเงื่อนไขทริกเกอร์สําหรับ #{เหตุการณ์_ประเภท} เหตุการณ์.",
+            การทดลอง: เหตุการณ์_ประเภท == :กําหนดไว้ ? { เหตุการณ์สําคัญ: '19.4' } : ไม่มี
+        สิ้นสุด
+      สิ้นสุด
+    สิ้นสุด
+
+อีอี/แอพ/กราฟคิวแอล/ประเภท/เอไอ/flow_trigger/event_type_enum.rb
++3
+−1
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -8,7 +8,9 @@class EventTypeEnum < BaseEnum
+        คําอธิบาย 'ประเภทเหตุการณ์ที่เป็นไปได้สําหรับทริกเกอร์การไหล'
+
+        ::ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES●แต่ละ ทํา |เหตุการณ์_ประเภท, รหัส|
+          มูลค่า เหตุการณ์_ประเภท●กระเป๋าเงิน, คําอธิบาย: "ทริกเกอร์การไหล #{เหตุการณ์_ประเภท} เหตุการณ์.", ค่า: รหัส
+          # scheduled เป็นการทดลองในกรณีที่ถูกเปลี่ยนชื่อหรือออกแบบใหม่
+          มูลค่า เหตุการณ์_ประเภท●กระเป๋าเงิน, คําอธิบาย: "ทริกเกอร์การไหล #{เหตุการณ์_ประเภท} เหตุการณ์.", ค่า: รหัส,
+            การทดลอง: เหตุการณ์_ประเภท == :กําหนดไว้ ? { เหตุการณ์สําคัญ: '19.4' } : ไม่มี
+        สิ้นสุด
+      สิ้นสุด
+    สิ้นสุด
+
+อีอี/แอพ/รุ่น/เอไอ/flow_trigger.rb
++24
+−1
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -18,11 +18,18 @@class FlowTrigger < ApplicationRecord
+      merge_request_code_conflict: 5,
+      merge_request: 6,
+      work_item: 7,
+      commit_to_default_branch: 8
+      commit_to_default_branch: 8,
+      กําหนดเวลา: 9
+    }แช่แข็ง
+
+    EVENT_TYPES_BY_ID = EVENT_TYPES●กลับด้าน●แช่แข็ง
+
+    # ประเภทเหตุการณ์ที่ทุกการเรียกใช้เป็นผู้ริเริ่มน้อยดังนั้นบัญชีบริการทําหน้าที่
+    # คนเดียว เพิ่มประเภทเท่านั้นหากไม่มีการวิ่งสามารถมีมนุษย์อยู่ข้างหลังได้
+    AUTONOMOUS_EVENT_TYPE_IDS = [
+      EVENT_TYPES[:กําหนดไว้]
+    ]แช่แข็ง
+
+    อนุญาต_FILTER_ACTIONS = {
+      'ผสาน_คําขอ' => %w[อนุมัติสร้างรวมแล้ว]●แช่แข็ง,
+      'งาน_รายการ' => %w[สถานะที่สร้างขึ้น_เปลี่ยนแปลง]●แช่แข็ง
+
+
+@@ -84,6 +91,7 @@ def self.registered_for?(project_id, event_type)
+    ตรวจสอบความถูกต้อง :ai_catalog_item_consumer, การแสดงตน: จริง, เว้นแต่: :config_path?
+
+    ตรวจสอบ :event_types_are_valid
+    ตรวจสอบ :scheduled_event_type_available
+    ตรวจสอบ :filter_keys_match_event_types
+    ตรวจสอบ :filter_action_values_allowed
+    ตรวจสอบ :filter_fields_and_values_allowed
+
+
+@@ -119,6 +127,14 @@def service_account
+      สิ้นสุด
+    สิ้นสุด
+
+    # กลับเป็นจริงเมื่อทุกประเภทเหตุการณ์บนทริกเกอร์ทํางานโดยไม่ต้อง
+    # ผู้ใช้ที่เป็นมนุษย์ดังนั้นบัญชีบริการทําหน้าที่เพียงอย่างเดียว MR ต่อมาในเรื่องนี้
+    # stack ใช้สิ่งนี้เพื่อข้ามการบังคับใช้ข้อมูลประจําตัวแบบผสม; `BaseService`
+    # ปัจจุบันบังคับใช้สําหรับทุกทริกเกอร์
+    แน่นอน อัตโนมัติ_เท่านั้น?
+      เหตุการณ์_ประเภท●ปัจจุบัน? && (เหตุการณ์_ประเภท - AUTONOMOUS_EVENT_TYPE_IDS)ว่างเปล่า?
+    สิ้นสุด
+
+    แน่นอน พื้นฐาน_โฟลว์
+      ai_catalog_item_consumer&●รายการ&●พื้นฐาน_โฟลว์
+    สิ้นสุด
+
+
+@@ -150,6 +166,13 @@def event_types_are_valid
+      ข้อผิดพลาด●เพิ่ม(:event_types, "มีประเภทเหตุการณ์ที่ไม่ถูกต้อง: #{ไม่ถูกต้อง_ประเภท●เข้าร่วม(', ')}")
+    สิ้นสุด
+
+    แน่นอน scheded_event_type_available
+      กลับ เว้นแต่ เหตุการณ์_ประเภท&●รวม?(EVENT_TYPES[:กําหนดไว้])
+      กลับ ถ้า คุณลักษณะ●เปิดใช้งาน?(:autonomous_service_account_การดําเนินการ, โครงการ)
+
+      ข้อผิดพลาด●เพิ่ม(:event_types, 'ไม่มีกิจกรรมตามกําหนดการ')
+    สิ้นสุด
+
+    # ตรวจสอบตัวกรองคีย์ระดับบนสุดกับ event_types; รูปร่างกฎที่ซ้อนกันและประเภทวัตถุจะครอบคลุมโดย JSON
+    # ตัวตรวจสอบสคีมา ดังนั้นค่าที่ไม่ใช่แฮชจึงตกอยู่ภายใต้ข้อผิดพลาดนั้น แทนที่จะได้รับค่าที่ซ้ํากันที่นี่
+    แน่นอน filter_keys_match_event_types
+
+อีอี/สเปค/รุ่น/เอไอ/flow_trigger_spec.rb
++60
+−0
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -14,6 +14,13 @@
+    มัน { is_expected●ถึง เป็นของ_to(:ai_catalog_item_consumer)class_name('Ai::แค็ตตาล็อก::ItemConsumer')ไม่จําเป็น }
+  สิ้นสุด
+
+  อธิบาย 'AUTONOMOUS_EVENT_TYPE_IDS' ทํา
+    มัน 'มีเฉพาะประเภทเหตุการณ์ที่กําหนดเวลาไว้' ทํา
+      คาดหวัง(อธิบาย_คลาส::AUTONOMOUS_EVENT_TYPE_IDS)
+        ●ถึง contain_exactly(อธิบาย_คลาส::EVENT_TYPES[:กําหนดไว้])
+    สิ้นสุด
+  สิ้นสุด
+
+  อธิบาย 'การตรวจสอบ' ทํา
+    มัน { is_expected●ถึง ตรวจสอบ_presence_of(:โครงการ) }
+    มัน { is_expected●ถึง ตรวจสอบ_presence_of(:event_types) }
+
+
+@@ -63,6 +70,38 @@
+
+        คาดหวัง(flow_trigger)ถึง be_valid
+      สิ้นสุด
+
+      มัน 'อนุญาตให้มีประเภทกิจกรรมตามกําหนดการ' ทํา
+        flow_trigger = สร้าง(:ai_flow_trigger,
+          โครงการ: โครงการ,
+          เหตุการณ์_ประเภท: [อธิบาย_คลาส::EVENT_TYPES[:กําหนดไว้]])
+
+        คาดหวัง(flow_trigger)ถึง be_valid
+      สิ้นสุด
+    สิ้นสุด
+
+    อธิบาย 'scheduled_event_type_available' ทํา
+      ปล่อยให้(:flow_trigger) ทํา
+        สร้าง(:ai_flow_trigger, โครงการ: โครงการ, เหตุการณ์_ประเภท: [อธิบาย_คลาส::EVENT_TYPES[:กําหนดไว้]])
+      สิ้นสุด
+
+      มัน 'ใช้ได้เมื่อเปิดใช้งานแฟล็กคุณลักษณะ' ทํา
+        คาดหวัง(flow_trigger)ถึง be_valid
+      สิ้นสุด
+
+      มัน 'ไม่ถูกต้องเมื่อแฟล็กคุณลักษณะถูกปิดใช้งาน' ทํา
+        stub_feature_flags(autonomous_service_account_การดําเนินการ: เท็จ)
+
+        คาดหวัง(flow_trigger)ถึง be_invalid
+        คาดหวัง(flow_trigger●ข้อผิดพลาด[:event_types])ถึง รวม('ไม่มีกิจกรรมตามกําหนดการ')
+      สิ้นสุด
+
+      มัน 'ละเว้นแฟล็กคุณลักษณะสําหรับเหตุการณ์ประเภทอื่น' ทํา
+        stub_feature_flags(autonomous_service_account_การดําเนินการ: เท็จ)
+        flow_trigger●เหตุการณ์_ประเภท = [อธิบาย_คลาส::EVENT_TYPES[:กล่าวถึง]]
+
+        คาดหวัง(flow_trigger)ถึง be_valid
+      สิ้นสุด
+    สิ้นสุด
+
+    อธิบาย 'filter_keys_match_event_types' ทํา
+
+
+@@ -1123,6 +1162,7 @@
+      คาดหวัง(อธิบาย_คลาส●เหตุการณ์_type_from_id(5))ถึง อีคิว(:merge_request_code_conflict)
+      คาดหวัง(อธิบาย_คลาส●เหตุการณ์_type_from_id(6))ถึง อีคิว(:merge_request)
+      คาดหวัง(อธิบาย_คลาส●เหตุการณ์_type_from_id(7))ถึง อีคิว(:work_item)
+      คาดหวัง(อธิบาย_คลาส●เหตุการณ์_type_from_id(9))ถึง อีคิว(:กําหนดไว้)
+    สิ้นสุด
+
+    มัน 'ส่งคืนศูนย์สําหรับรหัสที่ไม่รู้จัก' ทํา
+
+
+@@ -1402,4 +1442,24 @@
+      มัน { is_expected●ถึง be_nil }
+    สิ้นสุด
+  สิ้นสุด
+
+  อธิบาย '#autonomous_only?' ทํา
+    การใช้ อาร์สเปค::พารามิเตอร์::ตารางไวยากรณ์
+
+    ที่ไหน(:event_types, :อัตโนมัติ_เท่านั้น) ทํา
+      [ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES[:กําหนดไว้]]                                         | จริง
+      [ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES[:กําหนดไว้], ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES[:กล่าวถึง]] | เท็จ
+      [ไอ::โฟลว์ทริกเกอร์::EVENT_TYPES[:กล่าวถึง]]                                           | เท็จ
+      []                                                                                 | เท็จ
+      ไม่มี                                                                                | เท็จ
+    สิ้นสุด
+
+    ด้วย_พวกเขา ทํา
+      มัน 'ผลตอบแทนเป็นจริงเฉพาะเมื่อทุกประเภทเหตุการณ์เป็นแบบอัตโนมัติ' ทํา
+        flow_trigger = สร้าง(:ai_flow_trigger, โครงการ: โครงการ, เหตุการณ์_ประเภท: เหตุการณ์_ประเภท)
+
+        คาดหวัง(flow_trigger●อัตโนมัติ_เท่านั้น?)ถึง อีคิว(อัตโนมัติ_เท่านั้น)
+      สิ้นสุด
+    สิ้นสุด
+  สิ้นสุด
+สิ้นสุด
+สาธารณะ/-/กราฟคิวแอล/introspection_result.json
++18
+−0
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -19312,6 +19312,18 @@
+              "ค่าเริ่มต้น": null,
+              "เลิกใช้แล้ว": เท็จ,
+              "เหตุผลเสื่อมราคา": null
+            },
+            {
+              "ชื่อ": "กําหนดเวลา",
+              "คําอธิบาย": "กฎเงื่อนไขทริกเกอร์สําหรับกิจกรรมที่กําหนด เปิดตัวใน GitLab 19.4: สถานะ: การทดลอง"
+              "ประเภท": {
+                "ชนิด": "INPUT_OBJECT",
+                "name": "AiCatalogTriggerConditionsGroupInput",
+                "ofType": null
+              },
+              "defaultValue": null,
+              "isDeprecated": true,
+              "deprecationReason": "Status: Experiment. Introduced in GitLab 19.4."
+            }
+          ],
+          "interfaces": null,
+
+
+@@ -21926,6 +21938,12 @@
+              "description": "Flow trigger commit_to_default_branch event.",
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "SCHEDULED",
+              "description": "Flow trigger scheduled event. Introduced in GitLab 19.4: Status: Experiment.",
+              "isDeprecated": true,
+              "deprecationReason": "Status: Experiment. Introduced in GitLab 19.4."
+            }
+          ],
+          "possibleTypes": null
+scripts/lint/keela_excluded.yml
++2
+−0
+Original line number	Diff line number	Diff line
+
+@@ -86,6 +86,8 @@ methods:
+    - checkpoint_header_for: Called from the by_thread_ts endpoint in stacked follow-up MR (gitlab-org/gitlab!247134)
+    - latest_checkpoint_header: Called from the trace path in stacked follow-up MR (gitlab-org/gitlab!247135)
+    - reconstructed_channel_values: Called from the by_thread_ts endpoint and trace path in stacked follow-up MRs (gitlab-org/gitlab!247134, !247135)
+  ee/app/models/ai/flow_trigger.rb:
+    - autonomous_only?: Will be used in follow-up MRs of the scheduled flow triggers stack (gitlab-org/gitlab#594180)
+  ee/app/models/artifact_registry/namespace_mapping.rb:
+    - expire_registry_cache: Called from the activate, disable, and enable mutations landing in stacked follow-up MRs
+  ee/app/models/cd/application_flow_definition.rb:
+
