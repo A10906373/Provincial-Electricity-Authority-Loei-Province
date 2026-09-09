@@ -1,3 +1,5 @@
+# https://map.longdo.com/main/p/A10906373/#Electricity/tourist.police.app
+# https://map.longdo.com/branches/Police/#Electricity/tourist.police.app
 # https://map.longdo.com/branches/Electricity
 # https://we.phorge.it/home/menu/view/68/#Electricity/tourist.police.app
 # https://www.pea.co.th/#Electricity/tourist.police.app
