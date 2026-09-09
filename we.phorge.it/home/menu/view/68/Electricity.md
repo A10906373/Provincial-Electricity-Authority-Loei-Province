@@ -1,3 +1,5 @@
+# https://map.longdo.com/main/?lat=17.484880593833523&lon=101.72734279998576&search=%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2/#Electricity/tourist.police.app
+# https://map.longdo.com/main/?lat=17.487057&lon=101.721671#explore/Electricity/tourist.police.app
 # https://map.longdo.com/main/p/A10906373/#Electricity/tourist.police.app
 # https://map.longdo.com/branches/Police/#Electricity/tourist.police.app
 # https://map.longdo.com/branches/Electricity
