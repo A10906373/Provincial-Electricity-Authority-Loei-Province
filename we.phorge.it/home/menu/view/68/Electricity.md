@@ -1,3 +1,4 @@
+# https://map.longdo.com/branches/Electricity
 # https://we.phorge.it/home/menu/view/68/#Electricity/tourist.police.app
 # https://www.pea.co.th/#Electricity/tourist.police.app
 # http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.tourist.police.app
