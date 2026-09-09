@@ -1,0 +1,719 @@
+หน้าแรก
+โรงเรียนเทศบาลห้าแห่งธรรมศาลาโรงเรียนฐาน ⁇ โรงเรียนเทมังศวพสภาเชดวัน
+กิตแล็บ
+มุ่งมั่น
+105b82a6
+โครงการนี้ถูกเก็บถาวร ข้อมูลของมันคือ อ่านอย่างเดียว●
+มีข้อผิดพลาดในการดึงข้อมูลอ้างอิงการคอมมิต โปรดลองอีกครั้งในภายหลัง
+มุ่งมั่น 105b82a6  ประพันธ์ 6 วันที่ผ่านมา โดย  🤖 GitLab บอท 🤖
+อัปเดต ESLint และที่เกี่ยวข้อง
+ ผู้ปกครอง d4ddbeef
+ ไม่พบสาขาที่เกี่ยวข้อง
+ ไม่พบแท็กที่เกี่ยวข้อง
+ ไม่พบคําขอผสานที่เกี่ยวข้อง
+ 2 ไฟล์
++
+102
+−
+79
+ไฟล์
+2
+
+แพ็คเก็ต
+อีเจสัน
++7 -7
+เส้นด้าย
+.ล็อค
++95 -72
+
+แพ็คเกจ.json
++7
+−7
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+{
+  "ส่วนตัว": จริง,
+  "สคริปต์": {
+    "การตรวจสอบการพึ่งพา": "สคริปต์/ส่วนหน้า/check_dependencies.sh",
+    "deps:ตรวจสอบ": "depcruise --config config/dependency_cruiser.mjs --no-ignore-known",
+    "deps:ตรวจสอบ:ทั้งหมด": "เส้นด้ายวิ่ง deps:ตรวจสอบ",
+    "สะอาด": "rm -rf สาธารณะ/สินทรัพย์ tmp/cache/webpack tmp/cache/rspack tmp/cache/vite",
+    "เซิร์ฟเวอร์ dev": "สคริปต์/build_frontend_islands && NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" สคริปต์โหนด/ส่วนหน้า/webpack_dev_server.js",
+    "ไฟล์ครอบคลุม": "สคริปต์/ส่วนหน้า/file_test_coverage.js",
+    "เอกสารผ้าสําลี": "สคริปต์/lint-doc.sh",
+    "ภายใน:eslint": "eslint --cache --max-warnings 0 --report-unused-disable-directives",
+    "ภายใน:สไตล์ลินท์": "stylelint -q --rd '{ee/,}app/assets/{stylesheets/**/*.{css,scss},builds/tailwind.css}'",
+    "พรีเจสต์": "การพึ่งพาการตรวจสอบเส้นด้าย",
+    "สร้าง:css": "โหนดสคริปต์/ส่วนหน้า/build_css.mjs",
+    "tailwindcss:สร้าง": "สคริปต์โหนด/ส่วนหน้า/tailwindcss.cjs",
+    "ล้อเล่น": "jest --config jest.config.js",
+    "เจสต์ดีบัก": "node --inspect-brk node_modules/.bin/jest --runInBand",
+    "ล้อเล่น:สัญญา": "PACT_DO_NOT_TRACK=เรื่องตลกที่แท้จริง --config jest.config.contract.js --runInBand",
+    "ล้อเล่น:บูรณาการ": "jest --config jest.config.integration.js",
+    "jest:msw-บูรณาการ": "jest --config jest.config.msw_integration.js",
+    "msw:ตัวแปร": "jest --config jest.config.msw_integration.js --testPathIgnorePatterns=/$^/ -- generate_variants_manifest",
+    "เจสต์:สคริปต์": "jest --config jest.config.scripts.js",
+    "ผู้เยี่ยมชม:eslint": "vitest --config vitest.eslint.config.mjs",
+    "vitest:เครื่องสแกนการติดเชื้อ": "vitest --config vitest.infection_scanner.config.mjs",
+    "เครื่องสแกนการติดเชื้อ": "สคริปต์โหนด/ส่วนหน้า/infection_scanner/infection_scanner.mjs",
+    "เครื่องสแกนการติดเชื้อ-ui": "สคริปต์โหนด/ส่วนหน้า/infection_scanner/infection_scanner.mjs web",
+    "ล้อเล่น:กักกัน": "grep -r 'กักกัน:' spec/frontend ee/spec/frontend",
+    "ล้อเล่น:สแน็ปช็อต": "jest --config jest.config.snapshots.js",
+    "ผ้าสําลี:eslint": "สคริปต์โหนด/ส่วนหน้า/eslint.js",
+    "ผ้าสําลี:eslint:fix": "โหนดสคริปต์/ส่วนหน้า/eslint.js --fix",
+    "ผ้าสําลี:eslint:ทั้งหมด": "สคริปต์โหนด/ส่วนหน้า/eslint.js",
+    "ผ้าสําลี:eslint:all:fix": "ผ้าสําลีเส้นด้าย:eslint:all --fix",
+    "ผ้าสําลี:eslint:รายงาน": "node scripts/frontend/eslint.js --format html --output-file ./eslint-report.html --no-inline-config .",
+    "ผ้าสําลี:eslint:จัดฉาก": "scripts/frontend/execute-on-staged-files.sh ภายใน:eslint '(js|vue)'",
+    "ผ้าสําลี:eslint:staged:fix": "ผ้าสําลีวิ่งเส้นด้าย:eslint:จัดฉาก --แก้ไข",
+    "ผ้าสําลี:สวยกว่า": "เส้นด้ายวิ่งสวยกว่า --ตรวจสอบ '**/*.{graphql,js,vue}'",
+    "ผ้าสําลี:สวยกว่า:แก้ไข": "เส้นด้ายวิ่งสวยกว่า --เขียน '**/*.{graphql,js,vue}'",
+    "ผ้าสําลี:สวยกว่า:จัดฉาก": "scripts/frontend/execute-on-staged-files.sh prettier '(graphql|js|vue)' --check",
+    "ผ้าสําลี:สวยกว่า:จัดฉาก:แก้ไข": "scripts/frontend/execute-on-staged-files.sh prettier '(graphql|js|vue)' --write",
+    "ผ้าสําลี:ผ้าสําลี": "stylelint '{ee/,}app/assets/{stylesheets/**/*.{css,scss},builds/tailwind.css}'",
+    "พรีลินท์:สไตล์ลินท์": "เส้นด้ายวิ่งหางลมcss:สร้าง",
+    "ผ้าสําลี:ผ้าสําลี:แก้ไข": "ผ้าสําลีวิ่งเส้นด้าย:ผ้าสําลี --แก้ไข",
+    "ผ้าสําลี:ผ้าสําลี:จัดฉาก": "scripts/frontend/execute-on-staged-files.sh stylelint '(css|scss)' -q",
+    "ผ้าสําลี:ผ้าสําลี:จัดฉาก:แก้ไข": "ผ้าสําลีวิ่งเส้นด้าย:ผ้าสําลี:จัดฉาก --แก้ไข",
+    "ติดตั้งล่วงหน้า": "node./scripts/frontend/preinstall.mjs",
+    "ติดตั้งภายหลัง": "node./scripts/frontend/postinstall.js",
+    "หนังสือนิทาน:ติดตั้ง": "เส้นด้าย --cwd./ติดตั้งสมุดเรื่อง",
+    "หนังสือนิทาน:หมอ": "เส้นด้าย --cwd./หมอหนังสือนิทาน",
+    "หนังสือนิทาน:dev:test": "เส้นด้าย --cwd./แบบทดสอบหนังสือนิทาน",
+    "หนังสือนิทาน:สร้าง": "เส้นด้าย tailwindcss:build && yarn --cwd./storybook build --quiet",
+    "หนังสือนิทาน:เริ่ม": "./scripts/frontend/start_storybook.sh",
+    "หนังสือนิทาน:start:skip-fixts-update": "./scripts/frontend/start_storybook.sh --skip-fixtures-update",
+    "ผยอง:ตรวจสอบแล้ว": "swagger-cli ตรวจสอบ",
+    "เว็บแพ็ค": "สคริปต์/build_frontend_islands && NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" webpack --config config/webpack.config.js",
+    "ผู้จําหน่ายเว็บแพ็ค": "NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" webpack --config config/webpack.vendor.config.js",
+    "เว็บแพ็ค-ผลิตภัณฑ์": "สคริปต์/build_frontend_islands && NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" NODE_ENV=production webpack --config config/webpack.config.js",
+    "อาร์สแพ็ค": "สคริปต์/build_frontend_islands && NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" rspack build --config config/rspack.config.mjs",
+    "rspack-prod": "สคริปต์/build_frontend_islands && NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=10240}\" NODE_ENV=การสร้าง rspack การผลิต --config config/rspack.config.mjs",
+    "สร้าง": "ถ้า [ \"$ENABLE_RSPACK\" = \"จริง\" ]; จากนั้นเส้นด้ายวิ่ง rspack; มิฉะนั้นเส้นด้ายวิ่ง webpack; fi",
+    "วีตโปรด": "scripts/build_frontend_islands && yarn run tailwindcss:build && NODE_ENV=production vite build"
+  },
+  "การพึ่งพา": {
+    "@apollo/ลูกค้า": "^3.5.10",
+    "@บาเบล/คอร์": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@csstools/postcss-global-ข้อมูล": "^2.1.1",
+    "@floating-ui/dom": "^1.8.0",
+    "@gitlab/at.js": "1.5.9",
+    "@gitlab/คลัสเตอร์-ไคลเอนต์": "^3.0.0",
+    "@gitlab/duo-ui": "^16.1.0",
+    "@gitlab/favicon-ซ้อนทับ": "2.0.0",
+    "@gitlab/แบบอักษร": "^1.3.1",
+    "@gitlab/query-ภาษา-rust": "0.34.0",
+    "@gitlab/svgs": "3.163.0",
+    "@gitlab/ui": "137.0.1",
+    "@gitlab/vue-router-vue3": "npm:vue-router@4.5.1",
+    "@gitlab/vuedraggable-vue3": "npm:vuedraggable@4.0.1",
+    "@gitlab/vuex-vue3": "npm:vuex@4.1.0",
+    "@gitlab/เว็บไซด์": "^0.0.1-dev-20260106142046",
+    "@gleam-lang/highlight.js-gleam": "^1.5.0",
+    "@json-render/คอร์": "^0.19.0",
+    "@json-render/vue": "^0.19.0",
+    "@mattiasbuelens/เว็บสตรีมอะแดปเตอร์": "^0.1.0",
+    "@mermaid-js/layout-elk": "0.2.2",
+    "@rails/actioncable": "7.2.301",
+    "@rails/ujs": "7.1.600",
+    "@rollup/plugin-graphql": "^2.0.5",
+    "@rsdoctor/rspack-ปลั๊กอิน": "^1.6.1",
+    "@rspack/cli": "^2.1.8",
+    "@rspack/คอร์": "^2.1.8",
+    "@sentry/เบราว์เซอร์": "10.70.0",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-ไคลเอนต์-คําแนะนํา": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-form-tracking": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-ga-คุกกี้": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-ลิงก์-คลิก-ติดตาม": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-ประสิทธิภาพ-เวลา": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ปลั๊กอิน-ไทม์โซน": "^4.6.8",
+    "@snowplow/เบราว์เซอร์-ติดตาม": "^4.6.8",
+    "@sourcegraph/code-host-บูรณาการ": "0.0.96",
+    "@tiptap/คอร์": "^2.27.2",
+    "@tiptap/ส่วนขยาย-blockquote": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตัวหนา": "^2.27.2",
+    "@tiptap/ส่วนขยาย-bubble-เมนู": "^2.27.2",
+    "@tiptap/ส่วนขยาย-bullet-list": "^2.27.2",
+    "@tiptap/รหัสส่วนขยาย": "^2.27.2",
+    "@tiptap/ส่วนขยาย-โค้ดบล็อก": "^2.27.2",
+    "@tiptap/extension-code-block-lowlight": "^2.27.2",
+    "@tiptap/ส่วนขยาย-การทํางานร่วมกัน": "^2.27.2",
+    "@tiptap/ส่วนขยาย-การทํางานร่วมกัน-เคอร์เซอร์": "^2.27.2",
+    "@tiptap/ส่วนขยาย-เอกสาร": "^2.27.2",
+    "@tiptap/ส่วนขยาย-dropcursor": "^2.27.2",
+    "@tiptap/ส่วนขยาย-gapcursor": "^2.27.2",
+    "@tiptap/ส่วนขยาย-hard-break": "^2.27.2",
+    "@tiptap/ส่วนขยาย-หัวเรื่อง": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ไฮไลท์": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ประวัติ": "^2.27.2",
+    "@tiptap/ส่วนขยาย-แนวนอน-กฎ": "^2.27.2",
+    "@tiptap/ส่วนขยาย-รูปภาพ": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตัวเอียง": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ลิงก์": "^2.27.2",
+    "@tiptap/ส่วนขยาย-รายการ-รายการ": "^2.27.2",
+    "@tiptap/รายการสั่งซื้อส่วนขยาย": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ย่อหน้า": "^2.27.2",
+    "@tiptap/ส่วนขยาย-strike": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตัวห้อย": "^2.27.2",
+    "@tiptap/ส่วนขยาย-superscript": "^2.27.2",
+    "@tiptap/ตารางส่วนขยาย": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตาราง-เซลล์": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตาราง-ส่วนหัว": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ตาราง-แถว": "^2.27.2",
+    "@tiptap/ส่วนขยาย-งาน-รายการ": "^2.27.2",
+    "@tiptap/ส่วนขยาย-รายการงาน": "^2.27.2",
+    "@tiptap/ส่วนขยาย-ข้อความ": "^2.27.2",
+    "@tiptap/pm": "^2.27.2",
+    "@tiptap/ข้อเสนอแนะ": "^2.27.2",
+    "@tiptap/vue-2": "^2.27.2",
+    "@vitejs/ปลั๊กอิน-vue": "^6.0.2",
+    "@vitejs/ปลั๊กอิน-vue2": "^2.3.4",
+    "@vue/apollo-ส่วนประกอบ": "^4.0.0-เบต้า.4",
+    "@vue/apollo-ตัวเลือก": "^4.0.0-เบต้า.4",
+    "@vue/compat": "3.5.35",
+    "@vue/คอมไพเลอร์-sfc": "3.5.35",
+    "@vue/เซิร์ฟเวอร์-renderer": "3.5.35",
+    "apollo-อัปโหลด-ไคลเอนต์": "15.0.0",
+    "apollo3-แคชคงอยู่": "^0.14.1",
+    "ตัวเติมข้อความอัตโนมัติ": "^10.4.8",
+    "ปรับขนาดอัตโนมัติ": "^6.0.1",
+    "แอ็กซิโอส": "^0.24.0",
+    "บาเบล-โหลดเดอร์": "^8.4.1",
+    "รายการเบราว์เซอร์": "^4.21.3",
+    "ตัวโหลดแคช": "^4.1.0",
+    "โชกิดาร์": "^3.5.3",
+    "คลิปบอร์ด": "^2.0.8",
+    "สี": "^2.9.3",
+    "ผู้บัญชาการ": "^15.0.0",
+    "การบีบอัด-webpack-plugin": "^5.0.2",
+    "คัดลอก webpack-plugin": "^6.4.1",
+    "คอร์-js": "^3.45.1",
+    "cron-ผู้ตรวจสอบ": "^1.1.1",
+    "ครอนสตรู": "^1.122.0",
+    "ครอปเปอร์จส์": "^1.6.1",
+    "css-โหลดเดอร์": "^2.1.1",
+    "d3": "^5.16.0",
+    "d3-แซนกี้": "^0.12.3",
+    "d3-การเลือก": "^1.2.0",
+    "รูปแบบวันที่": "^5.0.1",
+    "เด็กซี่": "^3.2.3",
+    "ดิฟ": "^3.4.0",
+    "ทําให้บริสุทธิ์": "^3.4.12",
+    "ดรอปโซน": "^4.2.0",
+    "แผนภูมิอิเล็กทรอนิกส์": "^5.6.0",
+    "การกําหนดค่าตัวแก้ไข": "^0.15.3",
+    "อีโมจิ-regex": "^10.3.0",
+    "เอนทิตี": "^7.0.1",
+    "es-โมดูล-lexer": "^1.7.0",
+    "รวดเร็ว-mersenne-twister": "1.0.2",
+    "โปรแกรมโหลดไฟล์": "^6.2.0",
+    "ฟัซซัลดริน-พลัส": "^0.6.0",
+    "gettext-parser": "^6.0.0",
+    "โกลบบี้": "^11.0.1",
+    "กราฟิค": "^3.7.1",
+    "กราฟคิวแอล": "16.11.0",
+    "graphql-แท็ก": "^2.11.0",
+    "ไฮไลท์.js": "^11.12.0",
+    "ไฮไลท์js-glimmer": "^2.2.2",
+    "ไฮไลท์js-veryl": "^0.20.3",
+    "ดื่มด่ํา": "^9.0.15",
+    "ipaddr.js": "^1.9.1",
+    "เจด": "^1.1.1",
+    "คนล้อเล่น": "^29.7.0",
+    "เจคิวรี่": "^3.6.0",
+    "jquery.คาเร็ต": "^0.3.1",
+    "เจเอส-คุกกี้": "^3.0.0",
+    "เจเอส-ยัมล์": "^3.13.1",
+    "เจซิป": "^3.1.3",
+    "เคเท็กซ์": "^0.16.19",
+    "แผ่นพับ": "^1.9.4",
+    "สายฟ้าcss": "^1.30.0",
+    "โลดาช-เอส": "^4.17.23",
+    "แสงน้อย": "^2.9.0",
+    "ทําเครื่องหมาย": "^16.0.0",
+    "ทําเครื่องหมาย-bidi": "^1.0.3",
+    "แมธแจ็กซ์": "3",
+    "เมอร์เมด-v11": "npm:นางเงือก@11.16.1",
+    "ไมโครแมทช์": "^4.0.5",
+    "มินิมัทช์": "^3.0.4",
+    "ภาพหน้าจอสมัยใหม่": "^4.4.39",
+    "บรรณาธิการโมนาโก": "^0.30.1",
+    "โมนาโก-บรรณาธิการ-webpack-plugin": "^6.0.0",
+    "โมนาโก-ยัมล์": "4.0.0",
+    "กับดักหนู": "1.6.5",
+    "แผนที่ที่สั่งซื้อ": "^2.1.1",
+    "ปาปาปาร์ส": "^5.3.1",
+    "แพทช์แพ็คเกจ": "8.0.1",
+    "pdfjs-dist": "4.9.124",
+    "พิคาเดย์": "^1.8.0",
+    "ปิเนีย": "^2.2.2",
+    "ป๊อปเปอร์.เจเอส": "^1.16.1",
+    "พอร์ทัล-vue": "^2.1.7",
+    "โพสต์css": "^8.4.35",
+    "postcss-ทรัพย์สินที่กําหนดเอง": "^13.3.12",
+    "สวยกว่า": "^3.9.5",
+    "กระบวนการ": "^0.11.10",
+    "prosemirror-markdown": "1.13.6",
+    "ราฟาเอล": "^2.2.7",
+    "raw-loader": "^4.0.2",
+    "ตอบสนอง": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "ซาส": "^1.98.0",
+    "sass-โหลดเดอร์": "^17.0.0",
+    "เลื่อนโปร่งใส": "^2.0.1",
+    "เซมเวอร์": "^7.3.4",
+    "จัดเรียงjs": "^1.10.2",
+    "สายแฮช": "1.1.3",
+    "style-loader": "^2.0.0",
+    "swagger-ลูกค้า": "^3.37.2",
+    "swagger-ui-dist": "^5.32.4",
+    "swc-ปลั๊กอิน-ความคุ้มครอง-เครื่องมือ": "0.0.32",
+    "textarea-คาเร็ต": "^3.1.0",
+    "ตัวโหลดเธรด": "^3.0.4",
+    "สาม": "^0.143.0",
+    "timeago.js": "^4.0.2",
+    "ทิปปี้.js": "^6.3.7",
+    "สํารวจ": "^0.6.7",
+    "url-โหลดเดอร์": "^4.1.1",
+    "uuid": "8.1.0",
+    "ทัศนวิสัยjs": "^1.2.4",
+    "วิต": "8.0.16",
+    "vite-ปลั๊กอิน-ruby": "^5.2.2",
+    "วี": "2.7.16",
+    "vue-apollo": "3.0.7",
+    "vue-โหลดเดอร์": "15.11.1",
+    "vue-loader-vue3": "npm:vue-loader@17.4.2",
+    "vue-สังเกต-การมองเห็น": "^1.0.0",
+    "vue-ปรับขนาด": "^1.0.1",
+    "vue-เราเตอร์": "3.6.5",
+    "คอมไพเลอร์เทมเพลต vue": "2.7.16",
+    "vue-virtual-เลื่อนรายการ": "^1.4.7",
+    "vuedraggable": "^2.23.0",
+    "วูเอ็กซ์": "^3.6.2",
+    "เว็บสตรีม-polyfill": "^3.2.1",
+    "เว็บ-vitals": "^0.2.4",
+    "เว็บแพ็ค": "^4.47.0",
+    "webpack-bundle-เครื่องวิเคราะห์": "^4.10.2",
+    "webpack-cli": "^4.10.0",
+    "webpack-สถิติ-ปลั๊กอิน": "^0.3.1",
+    "คนงานโหลด": "^3.0.8",
+    "xterm": "3.14.5",
+    "y-โปรสเมียร์": "^1.3.7",
+    "y-โปรโตคอล": "^1.0.7",
+    "ยามล์": "^2.0.0-10",
+    "วายเจเอส": "^13.6.30"
+  },
+  "การพึ่งพาการพัฒนา": {
+    "@eslint/eslintrc": "^3.33",
+    "@eslint/js": "^9.391",
+    "@eslint/eslintrc": "^3.36",
+    "@eslint/js": "^9.395",
+    "@gitlab/eslint-ปลั๊กอิน": "21.5.0",
+    "@gitlab/jest-metrics-ผู้ส่งออก": "^0.2.0",
+    "@gitlab/noop": "^1.0.1",
+    "@gitlab/stylelint-config": "6.3.0",
+    "@graphql-eslint/eslint-ปลั๊กอิน": "4.40",
+    "@graphql-eslint/eslint-ปลั๊กอิน": "4.41",
+    "@pinia/การทดสอบ": "^0.1.5",
+    "@rspack/dev-เซิร์ฟเวอร์": "^2.2.0",
+    "@testing-ห้องสมุด/dom": "^9.3.4",
+    "@testing-ห้องสมุด/vue": "5",
+    "@ประเภท/ล้อเล่น": "^29.5.12",
+    "@types/lodash-es": "^4.17.12",
+    "@vue/test-utils": "1.3.6",
+    "@vue/test-utils-vue3": "npm:@vue/test-utils@^2.4.6",
+    "@vue/vue2-jest": "^28.1.0",
+    "@vue/vue3-jest": "^29.2.3",
+    "@whatwg-node/ดึงข้อมูล": "^0.10.11",
+    "เอเจวี": "^8.10.0",
+    "รูปแบบ ajv": "^2.1.1",
+    "axios-จําลองอะแดปเตอร์": "^1.15.0",
+    "บาเบล-เจสต์": "^29.7.0",
+    "บาเบล-ปลั๊กอิน-อิสตันบูล": "^7.0.0",
+    "ชอล์ก": "^2.4.1",
+    "สร้างความสับสนให้กับเบราว์เซอร์-globals": "^1.0.11",
+    "คริปโต": "^1.0.1",
+    "จับคู่ jquery แบบกําหนดเอง": "^2.1.0",
+    "เรือลาดตระเวนพึ่งพา": "^16.9.0",
+    "เอสลินท์": "9.391",
+    "eslint-formatter-gitlab": "^70.1",
+    "เอสลินท์": "9.395",
+    "eslint-formatter-gitlab": "^72.0",
+    "eslint-import-resolver-jest": "3.0.2",
+    "eslint-import-resolver-webpack": "0.13.10",
+    "eslint-import-resolver-webpack": "0.13.11",
+    "eslint-ปลั๊กอิน-นําเข้า": "^2.32.0",
+    "eslint-plugin-no-jquery": "3.1.1",
+    "eslint-plugin-ไม่ผ่านการฆ่าเชื้อ": "^4.14",
+    "eslint-plugin-ไม่ผ่านการฆ่าเชื้อ": "^4.15",
+    "db ที่จัดทําดัชนีปลอม": "^4.0.1",
+    "ลูกโลกเร็ว": "^3.2.9",
+    "gettext-extractor": "^3.7.0",
+    "gettext-extractor-vue": "^5.1.0",
+    "โกลบ": "^7.1.6",
+    "โลกาภิวัตน์": "^11.12.0",
+    "ล้อเล่น": "^29.7.0",
+    "ล้อเล่นผ้าใบจําลอง": "^2.4.0",
+    "ล้อเล่นดิฟ": "^29.7.0",
+    "jest-สิ่งแวดล้อม-jsdom": "^29.7.0",
+    "ล้อเล่น-จัสมิน2": "^29.7.0",
+    "jest-junit": "^12.3.0",
+    "jest-util": "^29.7.0",
+    "มิราจส์": "^0.1.40",
+    "ลูกค้าจําลองอพอลโล": "1.2.0",
+    "มศว": "1.3.5",
+    "โนเดมอน": "^2.0.19",
+    "postcss-loader": "^8.2.1",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "prosemirror-ทดสอบ-สร้าง": "^1.1.1",
+    "สไตล์ลินท์": "^16.1.0",
+    "สแวกเกอร์-คลี": "^4.0.4",
+    "tailwindcss": "^3.4.1",
+    "เขตเวลาจําลอง": "^1.3.6",
+    "วิเทสต์": "^4.0.8",
+    "vue-test-utils-compat": "0.0.14",
+    "vuex-ร้านจําลอง": "^0.1.0",
+    "webpack-dev-เซิร์ฟเวอร์": "4.15.2",
+    "xhr-จําลอง": "^2.5.1",
+    "เส้นด้าย-เช็ค-เว็บแพ็ค-ปลั๊กอิน": "^1.2.0",
+    "เส้นด้ายซ้ํากัน": "^6.0.2"
+  },
+  "ปณิธาน": {
+    "**/ลูกโลก/แจ็คสปีค": "npm:@gitlab/noop@1.0.1",
+    "โจซิฟาย": "npm:@gitlab/noop@1.0.1",
+    "**/ง่ายต่อการอัปเดต-notifier/semver": "^7.0.0",
+    "@ประเภท/โหนด": "14.17.5",
+    "โชกิดาร์": "^3.5.3",
+    "นวสภี": "2.2.2",
+    "คุกกี้แกร่ง": "4.1.3",
+    "โรลอัพ": "^4.60.0"
+  },
+  "เครื่องยนต์": {
+    "โหนด": ">=12.22.1",
+    "เส้นด้าย": "^1.10.0"
+  },
+  "การตั้งค่าผ้าพันคอ": {
+    "เปิดใช้งาน": เท็จ
+  },
+  "ผู้จัดการแพ็คเกจ": "yarn@1.22.22+sha512 a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
+เส้นด้าย.ล็อค
++95
+−72
+หมายเลขบรรทัดเดิม	หมายเลขบรรทัดความแตกต่าง	เส้นแตกต่าง
+
+@@ -1327,14 +1327,14 @@
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint-community/regexpp/-/regexpp-4.12.1.tgz#cfc6cffe39df390a3841cde2abccf92eaa7ae0e0"
+  ความสมบูรณ์ sha512-CCZCDJuduB9OUkFkY2IgppNZMi2lBQgD2qzwXkEia16cge2pijY/aXi96CJMquDMn3nJdlPV1A5KrJEXwfLNzQ==
+"@eslint/config-array@^0.211":
+  เวอร์ชัน "0.211"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/config-array/-/config-array-0.21.1.tgz#7d1b0060fea407f8301e932492ba8c18aff29713"
+  ความซื่อสัตย์ sha512-aw1gNayWpdI/jSYVgzN5pL0cfzU02GT3NBpeT/DXbx1/1x7ZKxFPd9bwrzygx/qiwIQiJ1sw/zD8qY/kRvlGHA==
+"@eslint/config-array@^0.212":
+  เวอร์ชัน "0.212"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/config-array/-/config-array-0.21.2.tgz#f29e22057ad5316cf23836cee9a34c81fffcb7e6"
+  ความซื่อสัตย์ sha512-nJl2KGTlrf9GjLimgIru+V/mzgSK0ABCDQRvxw5BjURL7WfH5uoWmizbH7QB6MmnMBd8cIC9uceWnezL1VZWWw==
+  การพึ่งพา:
+    "@eslint/object-schema" "^2.1.7"
+    ดีบัก "^4.3.1"
+    มินิมัทช์ "^3.12"
+    มินิมัทช์ "^3.15"
+"@eslint/config-helpers@^0.4.2":
+  เวอร์ชัน "0.4.2"
+
+@@ -1350,25 +1350,25 @@
+  การพึ่งพา:
+    "@types/json-schema" "^7.0.15"
+"@eslint/eslintrc@^3.31", "@eslint/eslintrc@^3.3.3":
+  เวอร์ชัน "3.33"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-3.3.3.tgz#26393a0806501b5e2b6a43aa588a4d8df67880ac"
+  ความซื่อสัตย์ sha512-Kr+LPIUVKz2qkx1HAMH8q1q6azbqBAsXJUxBl/ODDuVPX45Z9DfwB8tPjTi6nNZ8BuM3nbJxC5zCAg5elnBUTQ==
+"@eslint/eslintrc@^3.36":
+  เวอร์ชัน "3.37"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-3.3.7.tgz#76d3dedec4a30ea32df797bf8a0085c1311b7316"
+  ความซื่อสัตย์ sha512-F42g89Qd5oAWtp0k0nnSrjziAKza7w8SVT4mStc18LZMaRb4J1HQAHLCalEtDCxrTuksx7NU9qsmeLwpOfPqWw==
+  การพึ่งพา:
+    เอเจวี "^6.12.4"
+    เอเจวี "^6.14.0"
+    ดีบัก "^4.3.2"
+    เอสปรี "^10.0.1"
+    ทั่วโลก "^14.0.0"
+    ไม่ต้องสนใจ "^5.2.0"
+    นําเข้า-สด "^3.2.1"
+    เจเอส-ยัมล์ "^41.1"
+    มินิมัทช์ "^3.12"
+    เจเอส-ยัมล์ "^43.2"
+    มินิมัทช์ "^3.15"
+    strip-json-ความคิดเห็น "^3.1.1"
+"@eslint/js@9.391", "@eslint/js@^9.391":
+  เวอร์ชัน "9.391"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/js/-/js-9.39.1.tgz#0dd59c3a9f40e3f1882975c321470969243e0164"
+  ความซื่อสัตย์ sha512-S26Stp4zCy88tH94QbBv3XCuzRQiZ9yXofEILmglyTh/Ug/a9/umqvgFtYBAo3Lp0nsI/5/qH1CCrbdK3AP1Tw==
+"@eslint/js@9.395", "@eslint/js@^9.395":
+  เวอร์ชัน "9.395"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@eslint/js/-/js-9.39.5.tgz#6f2fbcff75500d229d535e0a949ae13472c84787"
+  ความซื่อสัตย์ sha512-QywQuszQh77pIXCsq998c8hbhSTI/azTty1Z6N53dmAudKHhy573j3yvRLsX2BSp8YpLtocEG8E9DJe+8zUh4A==
+"@eslint/object-schema@^2.1.7":
+  เวอร์ชัน "2.1.7"
+
+
+@@ -1584,10 +1584,10 @@
+    "@n1ru4l/push-pull-async-iterable-iterator" "^3.1.0"
+    เมรอส "^1.1.4"
+"@graphql-eslint/eslint-plugin@4.40":
+  เวอร์ชัน "4.40"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@graphql-eslint/eslint-plugin/-/eslint-plugin-4.4.0.tgz#3c1d8f92c9b1466097d3311fda7c84cb0d7a6249"
+  ความซื่อสัตย์ sha512-dhW6fpk3Souuaphhc38uMAGCcgKMgtCJWFygIKODw/Kns43wiQqRPVay0aNFY1JBx3aevn4KPT/BCOdm6HNncA==
+"@graphql-eslint/eslint-plugin@4.41":
+  เวอร์ชัน "4.41"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/@graphql-eslint/eslint-plugin/-/eslint-plugin-4.4.1.tgz#5b24dc043e32322fe010f6a95f5e768dcafbf1bf"
+  ความซื่อสัตย์ sha512-QBDIMQqAXAioHKGti0nJjsklZi4wLMJAUFNv2z8Z41HT3l4HSMaxmw6pdsICkajPzxVGcvRAxp8opplINYacbg==
+  การพึ่งพา:
+    "@graphql-tools/โค้ดไฟล์โหลดเดอร์" "^8.0.0"
+    "@graphql-tools/graphql-tag-pluck" "^8.3.4"
+
+
+@@ -5514,10 +5514,10 @@ajv-keywords@^5.0.0:
+  การพึ่งพา:
+    ลึกเร็วเท่ากับ "^3.1.3"
+ajv@^6.1.0, ajv@^6.10.2, ajv@^6.12.4, ajv@^6.12.5:
+  เวอร์ชัน "6.12.6"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/ajv/-/ajv-6.12.6.tgz#baf5a62e802b07d977034586f8c3baf5adf26df4"
+  ความซื่อสัตย์ sha512-j3fVLgvTo527anyyyyyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g==
+ajv@^6.1.0, ajv@^6.10.2, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.14.0:
+  เวอร์ชัน "6.15.0"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/ajv/-/ajv-6.15.0.tgz#07e982c74626167aa7a2495c53817892d7139492"
+  ความซื่อสัตย์ sha512-fgFx7Hfoq60ytK2c7DhnF8jIvzYgOMxfugjLOSMHjLIPgenqa7S7oaagATUq99mV6IYvN2tRmC0wnTYX6iPbMw==
+  การพึ่งพา:
+    ลึกเร็วเท่ากับ "^3.1.1"
+    fast-json-stable-stringify "^2.0.0"
+
+
+@@ -8548,10 +8548,10 @@eslint-formatter-codeclimate@^2.0.0:
+  การพึ่งพา:
+    ประเภทภูมิอากาศรหัส "^0.3.0"
+eslint-formatter-gitlab@^70.1:
+  เวอร์ชัน "70.1"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-formatter-gitlab/-/eslint-formatter-gitlab-7.0.1.tgz#d2f49aa701ec28fe4ca05b162e5e5131e8bfb66c"
+  ความซื่อสัตย์ sha512-JYZ2bWR2+gKoNZ4UzRf7oEewyrJqQaieAlScdaEAAnhNM6ISFBsgoI8pxQW/CpbTHFoELjGpeDIfiohbwNf6vถาม==
+eslint-formatter-gitlab@^72.0:
+  เวอร์ชัน "72.0"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-formatter-gitlab/-/eslint-formatter-gitlab-7.2.0.tgz#f8830c290eaf818798d9b68e1da81c6a1ecd7d04"
+  ความซื่อสัตย์ sha512-9Sjquvp+eaVehYyHk10FO24Zgw2Xotu5sgiIjt0o1EKo2KHfd2umFa99prxd5OvaTlMmFLRYbFkF4PvJTZ3A2ถาม==
+  การพึ่งพา:
+    eslint-formatter-codeclimate "^2.0.0"
+    มันเทศ "^2.0.0"
+
+@@ -8573,20 +8573,20 @@eslint-import-resolver-node@^0.3.9:
+    is-core-โมดูล "^2.13.0"
+    แก้ไข "^1.22.4"
+eslint-import-resolver-webpack@0.13.10:
+  เวอร์ชัน "0.13.10"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-import-resolver-webpack/-/eslint-import-resolver-webpack-0.13.10.tgz#d5b69ca548190bd6fd517e5732d2b16cf884227เอ"
+  ความซื่อสัตย์ sha512-ciVTEg7sA56wRMR772PyjcBRmyBMLS46xgzQZqt6cWBEKc7cK65ZSSLCTLVRu2gGtKyXUb5stwf4xxLBfERLFA==
+eslint-import-resolver-webpack@0.13.11:
+  เวอร์ชัน "0.13.11"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-import-resolver-webpack/-/eslint-import-resolver-webpack-0.13.11.tgz#ec7ba80033e491adb09af0e6fcf66755e0d15acเอ"
+  ความซื่อสัตย์ sha512-RGFDrCHSmCKGuaoI1zmZT028weIFIEyfSy0nAwzp5rplutWDC+BBjvZS2l4bEgSOfjc+ILkSLxeszkslyNO6fQ==
+  การพึ่งพา:
+    ดีบัก "^3.2.7"
+    แก้ไขเพิ่มเติม "^0.9.1"
+    รากค้นหา "^1.1.0"
+    ฮาโซว์น "^2.0.2"
+    ตีความ "^1.4.0"
+    is-core-โมดูล "^2.15.1"
+    คือ-regex "^1.20"
+    โลแดช "^4.17.21"
+    แก้ไข "^2.0.0-ถัดไป5"
+    is-core-โมดูล "^2.16.1"
+    คือ-regex "^1.21"
+    โลแดช "^4.181"
+    แก้ไข "^2.0.0-ถัดไป6"
+    เซมเวอร์ "^5.7.2"
+eslint-โมดูล-utils@^2.12.1:
+
+
+@@ -8633,10 +8633,10 @@eslint-plugin-no-jquery@3.1.1:
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-plugin-no-jquery/-/eslint-plugin-no-jquery-3.1.1.tgz#5fbd5a1b769f03bbd6dbe19f6c7769669759d75a"
+  ความสมบูรณ์ sha512-LTLO3jH/Tjr1pmxCEqtV6qmt+Ochv8La4fwgG470JRpgxyFF4NOzoC9CRy92GIWD3Yjl0qLEgPmD2FLQWcNEjg==
+eslint-plugin-no-unsanitized@^4.14:
+  เวอร์ชัน "4.14"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-plugin-no-unsanitized/-/eslint-plugin-no-unsanitized-4.1.4.tgz#732dc9988190e38b29e5c1af86261f18ff658233"
+  ความซื่อสัตย์ sha512-cjAoZoq3J+5KJuycYYOWrc0/OpZ7pl2Z3ypfFq4GtaAgheg+L7YGxUo2YS3avIvo/dYU5/zR2hXu3v81M9NxhQ==
+eslint-plugin-no-unsanitized@^4.15:
+  เวอร์ชัน "4.15"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-plugin-no-unsanitized/-/eslint-plugin-no-unsanitized-4.1.5.tgz#036c7c7ac4561ff0ee34c3d126b3b6e86037641c"
+  ความซื่อสัตย์ sha512-MSB4hXPVFQrI8weqzs6gzl7reP2k/qSjtCoL2vUMSDejIIq9YL1ZKvq5/ORBXab/PvfBBrWO2jWviYpL+4Ghfg==
+eslint-plugin-promise@^7.0.0:
+  เวอร์ชัน "7.0.0"
+
+
+@@ -8723,24 +8723,24 @@ eslint-visitor-keys@^4.2.1:
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-4.2.1.tgz#4cfea60fe7dd0ad8e816e1ed026c1d5251b512c1"
+  ความสมบูรณ์ sha512-Uhdk5sfqcee/9H/rCOJikYz67o0a2Tw2hGRPOG2Y1R2dg7brRe1uG0yaNQDHu+TO/uQPF/5eCapvYSMHUjt7JQ==
+เอสลินท์@9.391:
+  เวอร์ชัน "9.391"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint/-/eslint-9.39.1.tgz#เป็น8bf7c6de77dcc4252b5a8dcb31c2efff74a6e5"
+  ความซื่อสัตย์ sha512-BhHmn2yNOFA9H9JmmIVKJmd288g9hrVRDkdoIgRCRuSySRUHH7r/DI6aAXW9T1WwUuY3DFgrcaqB+deURBLR5g==
+เอสลินท์@9.395:
+  เวอร์ชัน "9.395"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/eslint/-/eslint-9.39.5.tgz#2a4e3c8b0f753196efae943c8ffaa8730fc6a3fa"
+  ความซื่อสัตย์ sha512-DgZS62aPLXKlnxILS/AYCoRvHaZeXceIzlXPkkGGzJWSow1aEk0lbTlxUSlyjC8jcaKxAdOnTDz+o1JFSBsyjw==
+  การพึ่งพา:
+    "@eslint-community/eslint-utils" "^4.8.0"
+    "@eslint-ชุมชน/regexpp" "^4.12.1"
+    "@eslint/config-array" "^0.211"
+    "@eslint/config-array" "^0.212"
+    "@eslint/config-helpers" "^0.4.2"
+    "@eslint/core" "^0.17.0"
+    "@eslint/eslintrc" "^3.31"
+    "@eslint/js" "9.391"
+    "@eslint/eslintrc" "^3.36"
+    "@eslint/js" "9.395"
+    "@eslint/plugin-kit" "^0.4.1"
+    "@humanfs/node" "^0.16.6"
+    "@humanwhocodes/module-importer" "^1.0.1"
+    "@humanwhocodes/retry" "^0.4.2"
+    "@types/estree" "^1.0.6"
+    เอเจวี "^6.12.4"
+    เอเจวี "^6.14.0"
+    ชอล์ก "^4.0.0"
+    วางไข่ข้าม "^7.0.6"
+    ดีบัก "^4.3.2"
+
+@@ -8759,7 +8759,7 @@eslint@9.39.1:
+    คือ-ลูกโลก "^4.0.0"
+    json-stable-stringify-without-jsonify "^1.0.1"
+    lodash.merge "^4.6.2"
+    มินิมัทช์ "^3.12"
+    มินิมัทช์ "^3.15"
+    ธรรมชาติ-เปรียบเทียบ "^1.4.0"
+    ตัวเลือก "^0.9.3"
+
+
+@@ -9847,10 +9847,10 @@ hash.js@^1.0.0, hash.js@^1.0.3:
+    inherits "^2.0.3"
+    minimalistic-assert "^1.0.0"
+hasown@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/hasown/-/hasown-2.0.2.tgz#003eaf91be7adc372e84ec59dc37252cedb80003"
+  integrity sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==
+hasown@^2.0.2, hasown@^2.0.3:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/hasown/-/hasown-2.0.4.tgz#8c62d8cb90beb2aad5d0a5b67581ad9854c3f003"
+  integrity sha512-T2UbfbBEF32wiepXIsMlTW9+dDYC6wMh/t/vYA4tuOMKqWz/n3vr1NFSxQiyP+zk2mXsoMA/i/7qV6LKut1t1A==
+  dependencies:
+    function-bind "^1.1.2"
+
+
+@@ -10330,12 +10330,12 @@ is-callable@^1.2.7:
+  resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.2.7.tgz#3bc2a85ea742d9e36205dcacdd72ca1fdc51b055"
+  integrity sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==
+is-core-module@^2.13.0, is-core-module@^2.15.1, is-core-module@^2.16.1:
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.16.1.tgz#2a98801a849f43e2add644fbb6bc6229b19a4ef4"
+  integrity sha512-UfoeMA6fIJ8wTYFEUjelnaGI67v6+N7qXJEvQuIGa99l4xsCruSYOVSQ0uPANn4dAzm8lkYPaKLrrijLq7x23w==
+is-core-module@^2.13.0, is-core-module@^2.16.1, is-core-module@^2.16.2:
+  version "2.16.2"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.16.2.tgz#3e07450a8080ebce3fbf0cac494f4d2ab324e082"
+  integrity sha512-evOr8xfXKxE6qSR0hSXL2r3sd7ALj8+7jQEUvPYcm5sgZFdJ+AYzT6yNmJenvIYQBgIGwfwz08sL8zoL7yq2BA==
+  dependencies:
+    hasown "^2.0.2"
+    hasown "^2.0.3"
+is-data-descriptor@^0.1.4:
+  version "0.1.4"
+
+
+@@ -10523,7 +10523,7 @@ is-primitive@^3.0.1:
+  resolved "https://registry.yarnpkg.com/is-primitive/-/is-primitive-3.0.1.tgz#98c4db1abff185485a657fc2905052b940524d05"
+  integrity sha512-GljRxhWvlCNRfZyORiH77FwdFwGcMO620o37EOYC0ORWdq+WYNVqW0w2Juzew4M+L81l6/QS3t5gkkihyRqv9w==
+is-regex@^1.1.4, is-regex@^1.2.0, is-regex@^1.2.1:
+is-regex@^1.1.4, is-regex@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/is-regex/-/is-regex-1.2.1.tgz#76d70a3ed10ef9be48eb577887d74205bf0cad22"
+  integrity sha512-MjYsKHO5O7mCsmRGxWcLWheFqN9DJ/2TmngvjKXihe6efViPqc274+Fx/4fYj/r03+ESvBdTXK0V6tA3rgez1g==
+
+
+@@ -11188,10 +11188,10 @@ js-yaml@^3.13.1, js-yaml@^3.14.0:
+    argparse "^1.0.7"
+    esprima "^4.0.0"
+js-yaml@^4.1.0, js-yaml@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.1.tgz#854c292467705b699476e1a2decc0c8a3458806b"
+  integrity sha512-qQKT4zQxXl8lLwBtHMWwaTcGfFOZviOJet3Oy/xmGk2gZH677CJM9EvtfdSkgWcATZhj/55JZ0rmy3myCT5lsA==
+js-yaml@^4.1.0, js-yaml@^4.3.2:
+  version "4.3.2"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.3.2.tgz#8e44fb14a2643c59726bb15787b5f1512cb3d3fบี"
+  ความซื่อสัตย์ sha512-SFNOvSJ+Dgf/9An904Yx+CgSlIPCkIpao4qo51lpee25TIRejdH3rR4EZMGoNx3/TP3O+wzWuiTFl4sqbltzก==
+  การพึ่งพา:
+    อาร์กพาร์ส "^2.0.1"
+
+
+@@ -12013,10 +12013,10 @@minimatch@^10.2.1:
+  การพึ่งพา:
+    brace-ส่วนขยาย "^5.0.5"
+minimatch@^3.0.4, minimatch@^3.1.2:
+  เวอร์ชัน "3.12"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.2.tgz#19cd194bfd3e428f049a70817c038d89ab4be35b"
+  ความซื่อสัตย์ sha512-J7p63hRiAjw1NDEWw1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHว==
+minimatch@^3.0.4, minimatch@^3.1.2, minimatch@^3.1.5:
+  เวอร์ชัน "3.15"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.5.tgz#580c88f8d5445f2bd6aa8f3cadefa0de79fbd69e"
+  ความซื่อสัตย์ sha512-VgjWUsnnT6n+NUk6eZq77zeFdpW2LWDzP6zFGrCbHXiYNul5Dzqk2HHQ5uFH2DNW5Xbp8+jVzaeNt94ssEEl4ว==
+  การพึ่งพา:
+    การขยายเหล็กค้ํายัน "^1.1.7"
+
+
+@@ -12340,6 +12340,16 @@node-domexception@^1.0.0:
+  แก้ไขแล้ว "https://registry.yarnpkg.com/node-domexception/-/node-domexception-1.0.0.tgz#6888db46a1f71c0b76b3f7555016b63fe64766e5"
+  ความสมบูรณ์ sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==
+โหนดส่งออก-info@^1.6.0:
+  เวอร์ชัน "1.6.2"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/node-exports-info/-/node-exports-info-1.6.2.tgz#243a3105677d6781cd26e6a72350fd928a5cb46f"
+  ความสมบูรณ์ sha512-kXs9Go0cah0qHVV2v389IXQLdLCeE1xfFtjOAF+iobu0OIoG1pje8At2vMHyaPMiPMnG/LWP50twML21eMcAag==
+  การพึ่งพา:
+    array.prototype.flatmap "^1.3.3"
+    ข้อผิดพลาด es "^1.3.0"
+    object.entries "^1.1.9"
+    เซมเวอร์ "^6.3.1"
+node-fetch-commonjs@^3.3.2:
+  เวอร์ชัน "3.3.2"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/node-fetch-commonjs/-/node-fetch-commonjs-3.3.2.tgz#0dd0fd4c4a314c5234f496ff7b5d9ce5a6c8feaa"
+
+
+@@ -12550,6 +12560,16 @@object.assign@^4.1.4, object.assign@^4.1.7:
+    มีสัญลักษณ์ "^1.1.0"
+    คีย์วัตถุ "^1.1.1"
+object.entries@^1.1.9:
+  เวอร์ชัน "1.1.9"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/object.entries/-/object.entries-1.1.9.tgz#e4770a6a1444afb61bd39f984018b5bede25f8b3"
+  ความสมบูรณ์ sha512-8u/hfXFRBD1O0hPUjioLhoWFHRmt6tKA4/vZPyckBr18l1KE9uHrFaUi8MDRTpi4uak2goyPTSNJLXX2k2Hw==
+  การพึ่งพา:
+    ผูกสาย "^1.0.8"
+    โทรเข้า "^1.0.4"
+    กําหนดคุณสมบัติ "^1.2.1"
+    es-วัตถุ-อะตอม "^1.1.1"
+object.fromentries@^2.0.8:
+  เวอร์ชัน "2.0.8"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/object.fromentries/-/object.fromentries-2.0.8.tgz#f7195d8a9b97bd95cbc1999ea939ecd1a2b00c65"
+
+
+@@ -13977,12 +13997,15 @@ resolution@^1.1.7, solution@^1.10.0, solution@^1.12.0, solution@^1.14.2, solution@^1.20
+    แยกวิเคราะห์เส้นทาง "^1.0.7"
+    รองรับ-รักษา-symlinks-flag "^1.0.0"
+แก้ไข@^2.0.0-ถัดไป5:
+  เวอร์ชัน "2.0.0-ถัดไป5"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/resolve/-/resolve-2.0.0-next.5.tgz#6b0ec3107e671e52b68cd068ef327173b90dc03c"
+  ความซื่อสัตย์ sha512-U7WjGVG9sH8tvjW5SmGbQuui75FiyjAX72HX15DwBBwF9dNiQZRQAg9nnPhy+TUnE0+VcrttuvNI8oSxZcocA==
+แก้ไข@^2.0.0-ถัดไป6:
+  เวอร์ชัน "2.0.0-ถัดไป7"
+  แก้ไขแล้ว "https://registry.yarnpkg.com/resolve/-/resolve-2.0.0-next.7.tgz#ba3b035d4b1ee7c522426eee73cabcb0fd5515dd"
+  ความซื่อสัตย์ sha512-tqt+NBWyaMgw3zDsnygx4CByWjQEJHOPMdslYhppaQSJUtL/D4JO9CcBBlhPoI8lz9oJIDXkwXfhF4aWqP8xQ==
+  การพึ่งพา:
+    is-core-โมดูล "^2.13.0"
+    ข้อผิดพลาด es "^1.3.0"
+    is-core-โมดูล "^2.16.2"
+    โหนด-ส่งออก-ข้อมูล "^1.6.0"
+    คีย์วัตถุ "^1.1.1"
+    แยกวิเคราะห์เส้นทาง "^1.0.7"
+    รองรับ-รักษา-symlinks-flag "^1.0.0"
