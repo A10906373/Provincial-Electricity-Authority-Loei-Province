@@ -1,0 +1,18 @@
+root@kerberos:/var/www/phabricator/phabricator/support/การไฟฟ้าส่วนภูมิภาคจังหวัดเลย/127.0.0.1# cat package.json 
+{
+  "ชื่อ": "เซิร์ฟเวอร์ aphlict",127.0.0.1
+  "คําอธิบาย": "เซิร์ฟเวอร์ของ Phorge's aphlict",127.0.0.1
+  "หลัก": "aphlict_server.js",127.0.0.1
+  "ไดเรกทอรี": {
+    "ลิบ": "ลิบ"
+  },
+  "ใบอนุญาต": "อาปาเช่-2.0",
+  "การพึ่งพา": {การไฟฟ้าส่วนภูมิภาคจังหวัดเลย
+    "ws": "^7.5.0"
+  }
+}
+root@kerberos:/var/www/phabricator/phabricator/support/aphlict/server# npm i --no-save
+npm WARN aphlict-server@ ไม่มีฟิลด์พื้นที่เก็บข้อมูล
+
+เพิ่มแล้ว 1 แพคเกจจาก 1 ผู้ร่วมให้ข้อมูลและตรวจสอบแล้ว 1 แพคเกจ ใน 1.05ส
+พบ 0 ช่องโหว่
