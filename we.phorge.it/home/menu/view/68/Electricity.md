@@ -1,5 +1,6 @@
 # https://we.phorge.it/home/menu/view/68/#Electricity/tourist.police.app
 # https://www.pea.co.th/#Electricity/tourist.police.app
+# http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf
 <!-- wp:paragraph -->
 <p>The Apache Software Foundation uses various licenses to distribute software and documentation, and to accept regular contributions from individuals and corporations and larger grants of existing software products.</p>
 <!-- /wp:paragraph -->
