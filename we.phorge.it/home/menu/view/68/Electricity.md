@@ -1,5 +1,5 @@
-# https://we.phorge.it/home/menu/view/68/#Electricity
-# https://www.pea.co.th/#Electricity
+# https://we.phorge.it/home/menu/view/68/#Electricity/tourist.police.app
+# https://www.pea.co.th/#Electricity/tourist.police.app
 <!-- wp:paragraph -->
 <p>The Apache Software Foundation uses various licenses to distribute software and documentation, and to accept regular contributions from individuals and corporations and larger grants of existing software products.</p>
 <!-- /wp:paragraph -->
