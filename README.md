@@ -1,8 +1,8 @@
+```
 ◑
 Auto
 Chrome Root Store
 Version: 39
-
 Contents
 Trusted Roots
 Constrained Roots
@@ -114,6 +114,8 @@ efc65cadbb59adb6efe84da22311b35624b71b3b1ea0da8b6655174ec8978646	CN=Telekom Secu
 7e37cb8b4c47090cab36551ba6f45db840680fba166a952db100717f43053fc2	CN=DigiCert Assured ID Root G3,OU=www.digicert.com,O=DigiCert Inc,C=US	2013-08-01	2038-01-15
 Powered by Gitiles| Privacy| Terms
 source
+```
+https://github.com/A10906373
 ```
 วิธีการย้ายจาก Phabricator ไปยัง Phorge
 กระบวนการย้ายจาก Phabricator ไปยัง Phorge มีความคล้ายคลึงกันมาก กระบวนการอัพเกรดยกเว้นว่าคุณจะเปลี่ยนไปใช้รีโมทอื่น
