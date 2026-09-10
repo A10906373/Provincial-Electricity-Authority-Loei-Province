@@ -58,3 +58,702 @@ https://github.com/microsoft/codetour/pull/245
 
 แบบฟอรม์ รายงานการแกก้ ระแสไฟฟ้ าขดั ขอ้ งประจาวนั จาก งานแกก้ ระแสไฟฟ้ าขดั ขอ้ ง ถึง ผปบ. กฟฟ. เร่ือง รายงานการแกก้ ระแสไฟฟ้ าขดั ขอ้ ง ประจาวนั /กะ วนั ท่ี เรียน หผ.ปบ. ตามคาสง่ั ผจก. กฟฟ. ................... ลว. .......................... ใหก้ ระผมฯ พร้อมดว้ ย พชง.เวร / ลชง. เวร /คนงาน/ พขร.(บ) รวมจานวน ............ คน ปฏิบตั ิหนา้ ที่อยเู่ วรแกก้ ระแสไฟฟ้ าขดั ขอ้ ง กฟฟ. ....................................................... ประจาวนั ท่ี ............... เดือน ......................... พ.ศ. ...................... ช่วงระหวา่ งเวลา -กรณีอยเู่ วรแบบกะ กะ 1 (00.00 – 08.00 น.) กะ 2 (08.00 – 16.00 น.) กะ 3 (16.00 – 00.00 น.) -กรณีอยเู่ วรแบบ ส.14 08.30 – 16.30 น. 16.30 – 08.30 น. 1. ในระหวา่ งช่วงเวลาดงั กล่าว ไดเ้ กิดกระแสไฟฟ้ าขดั ขอ้ ง ดงั น้ี 
 
+<!-- wp:paragraph -->
+<p>ทำเนียบบุคลากร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/person_746">คณะผู้บริหาร</a><a href="https://nashawnan.go.th/person_747">สมาชิกสภา</a><a href="https://nashawnan.go.th/person_2769">หัวหน้าส่วนราชการ</a><a href="https://nashawnan.go.th/person_748">สำนักปลัด</a><a href="https://nashawnan.go.th/person_749">กองคลัง</a><a href="https://nashawnan.go.th/person_750">กองช่าง</a><a href="https://nashawnan.go.th/person_751">กองการศึกษา ฯ</a><a href="https://nashawnan.go.th/person_2496">หน่วยตรวจสอบภายใน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/3.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/30.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/4.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/58.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/25.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/47.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/26.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/55.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/13.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/13.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/7.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/31.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/19.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/31.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/3.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/6.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/4.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_2685">ประวัติความเป็นมา</a><a href="https://nashawnan.go.th/data_2686">วิสัยทัศน์/พันธกิจ</a><a href="https://nashawnan.go.th/data_2687">ตราสัญลักษณ์</a><a href="https://nashawnan.go.th/data_2688">สภาพและข้อมูลพื้นฐาน</a><a href="https://nashawnan.go.th/data_2692">โครงสร้างการบริหาร</a><a href="https://nashawnan.go.th/data_2693">อำนาจและหน้าที่ อบต.</a><a href="https://nashawnan.go.th/data_11426">ข้อบัญญัติองค์การบริหารส่วนตำบลนาซาว เรื่อง หลักเก</a><a href="https://nashawnan.go.th/data_2694">แผนที่ อบต.</a><a href="https://nashawnan.go.th/calendar">ปฏิทินกิจกรรม</a><a href="https://nashawnan.go.th/news_405">คู่มือประชาชน</a><a href="https://nashawnan.go.th/data_6869">แผนป้องกันการทุจริต พ.ศ. 2566 - 2570</a><a href="https://nashawnan.go.th/data_11322">คู่มือการร้องเรียนร้องทุกข์</a><a href="https://nashawnan.go.th/data_11323">ศูนย์ข้อมูลข่าวสารทางราชการ</a><a href="https://nashawnan.go.th/data_11425">การกำหนดโครงสร้างส่วนราชการและระดับตำแหน่ง ฯ</a><a href="https://nashawnan.go.th/data_12742">คู่มือการปฏิบัติงานด้านเบี้ยยังชีพ</a><a href="https://nashawnan.go.th/data_12750">คู่มือการปฏิบัติงานท้องถิ่น</a><a href="https://nashawnan.go.th/data_12751">คู่มือขั้นตอนการให้บริการประชาชน</a><a href="https://nashawnan.go.th/data_12759">การเปิดโอกาสให้เกิดการมีส่วนร่วม</a><a href="https://nashawnan.go.th/data_12760">้เจตจำนงสุจริตของผู้บริหาร</a><a href="https://nashawnan.go.th/data_12800">ข้อมูลเชิงสถิติการให้บริการ</a><a href="https://nashawnan.go.th/data_12842">ข้อมูลเชิงสถิติเรื่องร้องเรียนการทุจริตและประพฤติม</a><a href="https://nashawnan.go.th/data_12845">การประเมินความเสี่ยงการทุจริต</a><a href="https://nashawnan.go.th/data_12861">การดำเนินการเพื่อจัดการความเสี่ยงการุทจริต</a><a href="https://nashawnan.go.th/data_12934">รายงานการกำกับติดตามการดำเนินการป้องกันการทุจริตปร</a><a href="http://nashawnan.go.th/news_3300">รายงานผลการดำเนินการป้องกันการทุจริตประจำปี</a><a href="https://nashawnan.go.th/data_12977">มาตรการส่งเสริมคุณธรรมและความโปร่งใสภายในหน่วยงาน</a><a href="https://nashawnan.go.th/data_13030">รายงานผลการใช้จ่ายงบประมาณประจำปี</a><a href="https://nashawnan.go.th/data_13086">การดำเนินการตามมาตรการส่งเสริมคุณธรรมและความโปร่งใ</a><a href="https://nashawnan.go.th/data_13300">นโยบายการบริหารทรัพยากรบุคคล</a><a href="https://nashawnan.go.th/data_13301">การดำเนินการตามนโยบายการบริหารทรัพยากรบุคคล</a><a href="https://nashawnan.go.th/data_13303">รายงานผลการบริหารและพัฒนาทรัพยากรบุคคลประจำปี</a><a href="https://nashawnan.go.th/data_14306">รายงานการประชุมสภาท้องถิ่น ปี พ.ศ. 2563</a><a href="https://nashawnan.go.th/data_16201">ข้อมูลการติดต่อ</a><a href="https://nashawnan.go.th/data_16203">นโยบายไม่รับของขวัญ (No Gift Policy)</a><a href="https://nashawnan.go.th/data_18820">ประกาศต่าง ๆ เกี่ยวกับการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ</a><a href="https://nashawnan.go.th/data_18845">การสร้างวัฒนธรรม (No Gift Ploicy)</a><a href="https://nashawnan.go.th/data_18891">ประมวลจริยธรรมสำหรับเจ้าหน้าที่ของรัฐ</a><a href="https://nashawnan.go.th/data_18892">การขับเคลื่อนจริยธรรม</a><a href="https://nashawnan.go.th/data_18893">การประเมินจริยธรรมเจ้าหน้าที่ของรัฐ</a><a href="https://nashawnan.go.th/data_21450">ความก้าวหน้าการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ</a><a href="https://nashawnan.go.th/data_21458">การประเมินความเสี่ยงการทจุริตในประเด็นที่เกี่ยวข้องกับสินบน</a><a href="https://nashawnan.go.th/data_21461">รายงานผลการรับทรัพย์สินหรือประโยชน์อื่นใดโดยธรรมจรรยา</a><a href="https://nashawnan.go.th/data_21606">รายงานผลการดำเนินการป้องกันการทุจริตประจำปี</a><a href="https://nashawnan.go.th/data_21741">แผนการบริหารและพัฒนาทรัพยากรบุคคล</a><a href="https://nashawnan.go.th/data_21742">รายงานผลการบริหารและพัฒนาทรัพยากรบุคคลประจำปี</a><a href="https://nashawnan.go.th/data_21745">การขับเคลื่อนจริยธรรม</a><a href="https://nashawnan.go.th/data_21748">มาตรการส่งเสริมคุณธรรมและความโปร่งใสภายในหน่วยงาน</a><a href="https://nashawnan.go.th/data_21750">ข้อมูลสถิติการให้บริการ</a><a href="https://nashawnan.go.th/data_21768">รายงานผลการดำเนินการเพื่อจัดการความเสี่ยงการทุจริตและประพฤติมิชอบประจำปี</a><a href="https://nashawnan.go.th/data_21802">รายงานผลการดำเนินการเพื่อส่งเสริมคุณธรรมและความโปร่งใสภายในหน่วยงาน</a><a href="https://nashawnan.go.th/data_21872">คู่มือหรือแนวทางการปฏิบัติงานของเจ้าหน้าที่</a><a href="https://nashawnan.go.th/data_21885">คู่มือหรือแนวทางการให้บริการสำหรับผู้้รับบริการหรือผู้มาติดต่อ</a><a href="https://nashawnan.go.th/data_21887">คู่มือวิธีการใช้งานระบบการให้บริการออนไลน์ E-servoce</a><a target="_blank" href="http://www.abt.in.th/staff/index.php?abt_id=070155" rel="noreferrer noopener">Admin เข้าระบบ</a><a href="https://nashawnan.go.th/data_21912">รายงานสรุปผลการจัดซื้อจัดจ้างหรือจัดหาพัสดุประจำปี</a><a href="https://nashawnan.go.th/data_21918">ข้อมูลใหม่</a><a href="https://nashawnan.go.th/data_22011">รายการการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ</a><a href="https://nashawnan.go.th/data_23427">ข้อมูลสถิติเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ ปี .2567</a><a href="https://nashawnan.go.th/data_23481">รายงานผลการดำเนินการเพื่อส่งเสริมคุณธรรม</a><a href="https://nashawnan.go.th/data_23482">ประมวลจริยธรรมและการขับเคลื่อนจริยธรรม</a><a href="https://nashawnan.go.th/data_23485">ข้อมูลสถิติการให้บริการ</a><a href="https://nashawnan.go.th/data_23555">การเปิดโอกาสให้เกิดการมีส่วนร่วม</a><a href="https://nashawnan.go.th/data_23703">รายงานผลการจัดซื้อจัดจ้างหรือการจัดหาพัสดุประจำปี พ.ศ. 2567</a><a href="https://nashawnan.go.th/data_23747">การประเมินความเสี่ยงที่อาจเกิดการให้/รับ สินบน จากาการดำเนินงานตามภารกิจของหน่วยงาน ประจำปี พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_23763">รายการการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ และความก้าวหน้าการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ</a><a href="https://nashawnan.go.th/data_23764">ส่วนราชการ</a><a href="https://nashawnan.go.th/data_23830">รายงานผลการดำเนินการป้องกันการทุจริต ประจำปี พ.ศ. 2567</a><a href="https://nashawnan.go.th/data_23843">ประกาศเจตนารมณ์และการสร้างวัฒนธรรมตามนโยบาย No Gift Policy จากการปฏิบัติหน้าที่</a><a href="https://nashawnan.go.th/data_23940">รายงานผลการดำเนินการเพื่อส่งเสริมคุณธรรม</a><a href="https://nashawnan.go.th/data_23971">มาตรการส่งเสริมคุณธรรมและความโปร่งใสภายในหน่วยงาน</a><a href="https://nashawnan.go.th/data_25213">รายงานการประชุมสภา อบต.นาซาว ประจำปี พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_25625">หลักเกณฑ์และแผนการบริาหรและพัฒนาทรัพยากรบุคคลประจำปีงบประมาณ พ.ศ. 2569</a><a href="https://nashawnan.go.th/data_25626">รายงานผลการบริหารและพัฒนาทรัพยากรบุคคลประจำปี พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_25627">ประมวลจริยธรรมการขับเคลื่อนจริยธรรม</a><a href="https://nashawnan.go.th/data_25682">การขับเคลื่อนนโยบาย NO GIFT POLICY จากการปฏิบัติหน้าที่</a><a href="https://nashawnan.go.th/data_25714">สรุปผลการจัดซื้อจจัดจ้าง หรือการจัดกาพัสดุรายเดือน ประจำปีงบประมาณ พ.ศ. 2569</a><a href="https://nashawnan.go.th/data_25715">รายงานสรุปผลการจัดซื้อจัดจ้างหรือการจัดหาพัสดุของหน่วยงาน ประจำปีงบประมาณ พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_25778">รายงานผลการดำเนินการตามแผนบริหารจัดการความเสี่ยงการทุจริตของหน่วยงาน ประจำปีงบประมาณ พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_25779">ผลการเปิดโอกาสให้มีส่วนร่วมในการดำเนินงานปีงบประมาณ พ.ศ. 2569</a><a href="https://nashawnan.go.th/data_25849">การนำผลการประเมิน ITA ไปสู่การพัฒนาองค์กร</a><a href="https://nashawnan.go.th/data_25876">การประเมินความเสี่ยงการทุจริต ในหน่วยงานภาครัฐประจำปีงบประมาณ พงศ. 2569</a><a href="https://nashawnan.go.th/data_25877">รายงานผลการดำเนินการเพื่อส่งเสริมคุณธรรมและความโปร่งใสภายในหน่วยงานปีงบประมาณ พ.ศ. 2569</a>&nbsp;แผนการพัฒนาท้องถิ่น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/43.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/43.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/43.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/43.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/43.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/60.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/60.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/61.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/62.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/4.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a target="_blank" href="https://nashawnan.go.th/data_2706" rel="noreferrer noopener">แผนพัฒนาท้องถิ่น</a><a target="_blank" href="https://drive.google.com/file/d/14BPvgcktqn3T2isHPvPMMZ6TD8r0-zEi/view?usp=share_link" rel="noreferrer noopener">แผนยุทธศาสตร์การพัฒนา</a><a href="https://nashawnan.go.th/data_2709">แผนดำเนินงานประจำปี</a><a href="https://nashawnan.go.th/data_2710">คำสั่ง อบต.</a><a href="https://nashawnan.go.th/data_8210">การติดตามและประเมินผลแผน</a><a href="https://nashawnan.go.th/data_12745">รายงานผลการดำเนินงานประจำปี</a><a href="https://nashawnan.go.th/data_13087">รายงานการกำกับติดตามการดำเนินงานประจำปี รอบ 6 เด</a><a target="_blank" href="https://nashawnan.go.th/data_16903" rel="noreferrer noopener">แผนอัตรากำลัง 3 ปี (2567-2569)</a><a target="_blank" href="https://nashawnan.go.th/data_25263" rel="noreferrer noopener">แผนอัตรากำลัง 3 ปี (2567-2569) เพิ่มเติมครั้งที่ 1</a><a target="_blank" href="https://nashawnan.go.th/data_16904" rel="noreferrer noopener">แผนพัฒนาบุคลากร 3 ปี (2567-2569)</a><a target="_blank" href="https://nashawnan.go.th/data_16905" rel="noreferrer noopener">ประมวลจริยธรรมฯ(2567-2569)</a><a href="https://nashawnan.go.th/data_21753">แผนและความก้าวหน้าในการดำเนินงานและการใช้จ่ายงบประมาณประจำปี</a><a href="https://nashawnan.go.th/data_23746">แผนยุทธศาสตร์หรือแผนพัฒนาท้องถิ่น</a><a href="https://nashawnan.go.th/data_24106">การติดตามและประเมินผลแผนพัฒนาท้องถิ่น ประจำปีงบประมาณ พ.ศ.2567</a><a href="https://nashawnan.go.th/data_24107">บทสรุปของผู้บริหารท้องถิ่นการติดตามและประเมินผลแผน พ.ศ. 2567</a><a href="https://nashawnan.go.th/data_24121">การประกาศใช้แผนติดตามและประเมินผลแผน 2567</a><a href="https://nashawnan.go.th/data_25684">รายงานผลการดำเนินการป้องกันการทุจริต ปีงบประมาณ พ.ศ. 2568</a><a href="https://nashawnan.go.th/data_25685">แผนปฏิบัติการป้องกันการทุจริต ปีงบประมาณ พ.ศ. 2569</a>&nbsp;กองทุน สปสช.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_2828">ระเบียบกองทุน ฯ</a><a target="_blank" href="https://drive.google.com/file/d/1BhrWb2wkHMuD4wau0Lb_QBYIbuIsSsJu/view?usp=sharing" rel="noreferrer noopener">คณะกรรมการกองทุน ฯ</a><a target="_blank" href="https://drive.google.com/drive/folders/1slyZAb5zQLOV5mvmhXmiNgq-0NjJKU3S?usp=sharing" rel="noreferrer noopener">รายงานการเงิน ฯ</a><a target="_blank" href="https://nashawnan.go.th/data_14235" rel="noreferrer noopener">แผนการดำเนินงาน</a><a target="_blank" href="https://nashawnan.go.th/data_4333" rel="noreferrer noopener">การดำเนินการกองทุนหลักประกันสุขภาพฯ ประจำปีงบฯ2565</a><a target="_blank" href="https://nashawnan.go.th/data_22193" rel="noreferrer noopener">การดำเนินการกองทุนหลักประกันสุขภาพฯ ประจำปีงบฯ2566</a><a target="_blank" href="https://nashawnan.go.th/data_24084" rel="noreferrer noopener">การดำเนินการกองทุนหลักประกันสุขภาพฯ ประจำปีงบฯ2567</a>&nbsp;ระเบียบ/กฎหมาย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/20.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/31.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/31.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_8186">พระราชบัญญัติ อบต.</a><a href="https://nashawnan.go.th/data_8187">พระราชบัญญัติจัดซื้อจัดจ้าง และบริหารพัสดุภาครัฐ</a><a href="https://nashawnan.go.th/data_8188">พระราชบัญญัติการจัดทำแผน</a><a href="https://nashawnan.go.th/data_8189">พระราชบัญญัติควบคุมอาคาร</a><a href="https://nashawnan.go.th/data_8203">คู่มือเบี้ยยังชีพ ฯ</a><a href="https://nashawnan.go.th/data_8209">คู่มือมาตรฐานการให้บริการ อบต. ฯ</a><a href="https://nashawnan.go.th/data_9219">พระราชบัญญัติ สงเคราะห์ผู้ประสบภัยเนื่องจากการช่วย</a><a href="https://nashawnan.go.th/data_9220">พระราชบัญญัติ ป้องกันและบรรเทาสาธารณภัย พ.ศ.2550</a><a href="https://nashawnan.go.th/data_9221">ระเบียบกระทรวงมหาดไทย ว่าด้วยหลักเกณฑ์การแต่งตั้ง</a><a href="https://nashawnan.go.th/data_9222">ระเบียบสำนักนายกรัฐมนตรี ว่าด้วยการป้องกันอุบัติภั</a><a href="https://nashawnan.go.th/data_9223">ระเบียบกระทรวงมหาดไทย เกี่ยวกับการออกหนังสือรับรอง</a><a href="https://nashawnan.go.th/data_9224">ระเบียบกระทรวงมหาดไทย ว่าด้วยกิจการ อปพร.พ.ศ.2553</a><a href="https://nashawnan.go.th/data_12825">Info กฎหมายของ อปท.</a><a href="https://nashawnan.go.th/data_12834">พรบ.ละเมิด</a><a href="https://nashawnan.go.th/data_12835">พรบ.เลือกตั้งสภาท้องถิ่นและผู้บริหารท้องถิ่น</a><a href="https://nashawnan.go.th/data_12837">พรบ.วิะีปฏิบัติทางการปกครอง</a><a href="https://nashawnan.go.th/data_12838">พระราชบัญญัติมาตรฐานทางจริยธรรม</a><a href="https://nashawnan.go.th/data_12839">รัฐธรรมนูญปี 2560</a>&nbsp;กฎหมาย/ระเบียบทีjเกี่ยวข้องของกิจการสภา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_11073">กฎหมายว่าด้วยการจัดตั้งองค์กรปกครองส่วนท้องถิ่น</a><a href="https://nashawnan.go.th/data_11074">พระราชบัญญัติกำหนดแผนและขั้นตอนการกระจายอำนาจให้แก</a><a href="https://nashawnan.go.th/data_11075">ระเบียบกระทรวงมหาดไทยว่าด้วยข้อบังคับการประชุมสภาท</a><a href="https://nashawnan.go.th/data_11076">ระเบียบกระทรวงมหาดไทยว่าด้วยวิธีงบประมาณขององค์กรป</a><a href="https://nashawnan.go.th/data_11077">พระราชบัญญัติการจัดซื้อจัดจ้างและการบริหารพัสดุภาค</a><a href="https://nashawnan.go.th/data_11078">ระเบียบกระทรวงมหาดไทยว่าด้วยการรับเงิน การเบิกจ่า</a><a href="https://nashawnan.go.th/data_11079">ระเบียบกระทรวงมหาดไทยว่าด้วยการจัดทำแผนพัฒนาองค์กร</a>&nbsp;งบแสดงฐานะการเงิน และงบอื่นๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_12316">งบแสดงฐานะการเงิน ประจำปีงบประมาณ พ.ศ.2563</a><a href="https://nashawnan.go.th/data_15752">รายงานการตรวจสอบรายงานการเงิน องค์การบริหารส่วนตำบลนาซาว อำเภอเมืองน่าน จังหวัดน่าน ประจำงวดปีงบประมาณ 2564</a><a target="_blank" href="https://drive.google.com/file/d/1zoXowWNtGpTUOD8ekfqbf_vZevnZrGYC/view?usp=share_link" rel="noreferrer noopener">รายงานการตรวจสอบรายงานการเงิน องค์การบริหารส่วนตำบลนาซาว อำเภอเมืองน่าน จังหวัดน่าน ประจำงวดปีงบประมาณ 2565</a><a target="_blank" href="https://drive.google.com/file/d/1H2vvxI7-6xGWsXR8zaM5_ClqdbJ2Tf2a/view?usp=sharing" rel="noreferrer noopener">รายงานการตรวจสอบรายงานการเงิน องค์การบริหารส่วนตำบลนาซาว อำเภอเมืองน่าน จังหวัดน่าน ประจำงวดปีงบประมาณ 2566</a><a target="_blank" href="https://nashawnan.go.th/data_24632" rel="noreferrer noopener">รายงานการรับ-จ่ายเงิน ประจำปีงบประมาณ พ.ศ. 2568</a><a target="_blank" href="https://nashawnan.go.th/data_24717" rel="noreferrer noopener">รายงานการเงินของ อบต.นาซาว ประจำปีงบประมาณ พ.ศ. 2568</a><a target="_blank" href="https://nashawnan.go.th/data_25007" rel="noreferrer noopener">การตรวจสอบรายงานการเงิน สำหรับปีสิ้นสุดวันที่ 30 ก.ย. 2568 อบต.นาซาว</a>&nbsp;ช่องทางติดต่อทาง Social Media/บริการ e-service</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/18.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.facebook.com/profile.php?id=100009394647141">เฟสบุ๊คFacebook</a><a target="_blank" href="https://nashawnan.go.th/data_12975" rel="noreferrer noopener">e-service แจ้งไฟฟ้าชำรุด</a><a target="_blank" href="https://nashawnan.go.th/data_12976" rel="noreferrer noopener">e-service แจ้งจัดเก็บขยะอันตราย</a><a target="_blank" href="https://nashawnan.go.th/data_22742" rel="noreferrer noopener">แบบสำรวจควมพึงพอใจประชาชนต่อการจัดการสาธารณะของ อปท.</a>&nbsp;หลักเกณฑ์และแผนการบริหารและพัฒนาทรัพยากรบุคคล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/60.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/61.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/62.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/60.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/61.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a target="_blank" href="https://nashawnan.go.th/data_25493" rel="noreferrer noopener">1. การสรรหาและคัดเลือกบุคลากร</a><a target="_blank" href="https://nashawnan.go.th/data_25508" rel="noreferrer noopener">2.การบรรจุและแต่งตั้งบุคลากร</a><a target="_blank" href="https://nashawnan.go.th/data_25510" rel="noreferrer noopener">3. การประเมินผลการปฏิบัติราชการ</a><a target="_blank" href="https://nashawnan.go.th/data_25512" rel="noreferrer noopener">4. การย้าย การโอน หรือการเลื่อน</a><a target="_blank" href="https://nashawnan.go.th/data_25517" rel="noreferrer noopener">5. แผนการบริหารและพัฒนาทรัพยากรบุคคล</a>&nbsp;โครงการถังขยะเปียกลดโลกร้อน อปท.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/50.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a target="_blank" href="https://drive.google.com/file/d/17A-tyRiHQUkLOKowLuhsR6lAj9iqiuDS/view?usp=sharing" rel="noreferrer noopener">1. คำสั่งแต่งตั้งทีมปฏิบัติการเตรียมความพร้อมสำหรับการทวนสอบฯ</a><a target="_blank" href="https://drive.google.com/file/d/1XkMJZZkFleJJRK8gBOp33Tjgsv3Hvimi/view?usp=sharing" rel="noreferrer noopener">2. คำสั่งแต่งตั้งคณะกรรมการจัดการสิ่งปฏิกูลฯอบต.นาซาว</a><a target="_blank" href="https://drive.google.com/file/d/1WAwMTAlbC_pZCiVuhZWVRY6W6G_x5KPl/view?usp=sharing" rel="noreferrer noopener">3. ประชาสัมพันธ์การจัดทำถังขยะเปียกลดโลกร้อน27ต.ค.2565</a><a target="_blank" href="https://drive.google.com/file/d/1PZl6KcXAbNUwRLnzgNinDxncW9b4WPba/view?usp=sharing" rel="noreferrer noopener">4. การประชุมทีมทวนสอบฯครั้งที่1.2565 วันที่ 9 พ.ย. 2565</a><a target="_blank" href="https://drive.google.com/file/d/1yQbkDtEWTIiGGa1K1CL64DXfOqwY1Ptn/view?usp=sharing" rel="noreferrer noopener">5. แบบสรุปผลการสุ่มตรวจครั้งที่ 2.2565 วันที่ 09ธ.ค.2565</a><a target="_blank" href="https://drive.google.com/file/d/1VDr4a-8HI-4CAH2TJZRd1pyKkuxgEIj9/view?usp=drive_link" rel="noreferrer noopener">6. การประชุมทีมทวนสอบฯครั้งที่2.2565 วันที่ 19 ธ.ค. 2565</a><a target="_blank" href="https://drive.google.com/file/d/1ww1EuNktICU-UTK6Wp3HDbQ8x_f5zSjb/view?usp=drive_link" rel="noreferrer noopener">7. แบบสรุปผลการสุ่มตรวจครั้งที่ 3.2565 วันที่ 23ธ.ค.2565</a><a target="_blank" href="https://drive.google.com/file/d/1uS17_ghG_2EcUWU3QpFyqxfuYi9bw_Vh/view?usp=drive_link" rel="noreferrer noopener">8. แบบสรุปผลการสุ่มตรวจครั้งที่ 1.2566 วันที่ 13ม.ค.2566</a><a target="_blank" href="https://nashawnan.go.th/data_20776" rel="noreferrer noopener">ภาพกิจกรรมการลงพื้นที่สำรวจถังขยะเปียกฯ</a><a target="_blank" href="https://drive.google.com/file/d/1d5rB6QSj6T-0XRA__SdmNafBSBepxEoZ/view?usp=sharing" rel="noreferrer noopener">8. แบบสรุปผลการสุ่มตรวจครั้งที่ 1.2567 วันที่ 20 ธ.ค. 2566</a>&nbsp;ข้อมูลสถิติการให้บริการ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nashawnan.go.th/include/share/icon/6.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nashawnan.go.th/data_23432">รายงานการสรุปข้อมูลเชิงสถิติการให้บริการ ประจำปีงบประมาณ พ.ศ. 2567</a>&nbsp;e-service แจ้งไฟฟ้าชำรุด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://forms.gle/WhaETPF5EiTXn5sC8"></a></p>
+<!-- /wp:paragraph -->
